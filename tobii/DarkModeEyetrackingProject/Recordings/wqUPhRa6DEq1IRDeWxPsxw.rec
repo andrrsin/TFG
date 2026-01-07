@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecordingBrief xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Tobii.Studio.Recording.Transport">
+  <ExternalRecordingId>4eeb4b68-5537-4190-acf8-3c513b3696f2</ExternalRecordingId>
+  <Info>[24/04/2025 - 11:28]</Info>
+  <Key>850fa5c2-ba16-4a0c-b521-10de5b13ecc7</Key>
+  <Media xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d1p1:guid>6b877bb8-1b04-414c-a329-eaa9ccf10bb4</d1p1:guid>
+  </Media>
+  <ParticipantId>07eb71fd-4e91-4046-b8c5-bd6d937d867c</ParticipantId>
+  <Properties>
+    <PropertyList>
+      <PropertyData>
+        <AllowNull>false</AllowNull>
+        <DataValue xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">1.162.32461</DataValue>
+        <Name>RecordingSoftwareVersion</Name>
+        <TypeName>String</TypeName>
+      </PropertyData>
+      <PropertyData>
+        <AllowNull>false</AllowNull>
+        <DataValue xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:int">60</DataValue>
+        <Name>DisplayFrequency</Name>
+        <TypeName>Int32</TypeName>
+      </PropertyData>
+      <PropertyData>
+        <AllowNull>false</AllowNull>
+        <DataValue xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">TimelineRecording</DataValue>
+        <Name>RecordingType</Name>
+        <TypeName>String</TypeName>
+      </PropertyData>
+      <PropertyData>
+        <AllowNull>false</AllowNull>
+        <DataValue xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:long">10000</DataValue>
+        <Name>PresentationLatency</Name>
+        <TypeName>Int64</TypeName>
+      </PropertyData>
+      <PropertyData>
+        <AllowNull>false</AllowNull>
+        <DataValue xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/" i:type="d4p1:guid">a09aaf98-995b-4e32-9054-1281149d0d0a</DataValue>
+        <Name>TimelineId</Name>
+        <TypeName>Guid</TypeName>
+      </PropertyData>
+      <PropertyData>
+        <AllowNull>false</AllowNull>
+        <DataValue xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:string">Timeline2-Mode2</DataValue>
+        <Name>TimelineName</Name>
+        <TypeName>String</TypeName>
+      </PropertyData>
+      <PropertyData>
+        <AllowNull>false</AllowNull>
+        <DataValue xmlns:d4p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation" i:type="d4p1:Size">
+          <d4p1:Height>1080</d4p1:Height>
+          <d4p1:Width>1920</d4p1:Width>
+        </DataValue>
+        <Name>DisplayNativeResolution</Name>
+        <TypeName>Size</TypeName>
+      </PropertyData>
+      <PropertyData>
+        <AllowNull>false</AllowNull>
+        <DataValue xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:double">88.572420979506774</DataValue>
+        <Name>PercentageGaze</Name>
+        <TypeName>Double</TypeName>
+      </PropertyData>
+      <PropertyData>
+        <AllowNull>false</AllowNull>
+        <DataValue xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:int">22950</DataValue>
+        <Name>ValidGazeSamples</Name>
+        <TypeName>Int32</TypeName>
+      </PropertyData>
+      <PropertyData>
+        <AllowNull>false</AllowNull>
+        <DataValue xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:int">25911</DataValue>
+        <Name>GazeSamples</Name>
+        <TypeName>Int32</TypeName>
+      </PropertyData>
+      <PropertyData>
+        <AllowNull>false</AllowNull>
+        <DataValue xmlns:d4p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time" i:type="d4p1:Duration">
+          <d4p1:Microseconds>436812789</d4p1:Microseconds>
+        </DataValue>
+        <Name>RecordingDuration</Name>
+        <TypeName>Duration</TypeName>
+      </PropertyData>
+      <PropertyData>
+        <AllowNull>false</AllowNull>
+        <DataValue xmlns:d4p1="http://www.w3.org/2001/XMLSchema" i:type="d4p1:boolean">false</DataValue>
+        <Name>RecordingFaulted</Name>
+        <TypeName>Boolean</TypeName>
+      </PropertyData>
+      <PropertyData>
+        <AllowNull>false</AllowNull>
+        <DataValue i:type="CalibrationPlaneTransport">
+          <LowerLeft xmlns:d5p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+            <d5p1:X>-153</d5p1:X>
+            <d5p1:Y>16.7766438</d5p1:Y>
+            <d5p1:Z>0.252867132</d5p1:Z>
+          </LowerLeft>
+          <UpperLeft xmlns:d5p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+            <d5p1:X>-153</d5p1:X>
+            <d5p1:Y>179.5385</d5p1:Y>
+            <d5p1:Z>59.4933357</d5p1:Z>
+          </UpperLeft>
+          <UpperRight xmlns:d5p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+            <d5p1:X>154.92453</d5p1:X>
+            <d5p1:Y>179.5385</d5p1:Y>
+            <d5p1:Z>59.4933357</d5p1:Z>
+          </UpperRight>
+        </DataValue>
+        <Name>CalibrationPlane</Name>
+        <TypeName>CalibrationPlaneTransport</TypeName>
+      </PropertyData>
+      <PropertyData>
+        <AllowNull>false</AllowNull>
+        <DataValue xmlns:d4p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation" i:type="d4p1:Size">
+          <d4p1:Height>173.20755004882813</d4p1:Height>
+          <d4p1:Width>307.92453002929688</d4p1:Width>
+        </DataValue>
+        <Name>ScreenSize</Name>
+        <TypeName>Size</TypeName>
+      </PropertyData>
+    </PropertyList>
+  </Properties>
+  <RecordingDimensions xmlns:d1p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+    <d1p1:Height>1080</d1p1:Height>
+    <d1p1:Width>1920</d1p1:Width>
+  </RecordingDimensions>
+  <RecordingName>Recording5</RecordingName>
+  <Segments />
+  <Sensors>
+    <RecordingSensor>
+      <DataType>Tobii.Studio.Recording.Transport.RecorderEvent</DataType>
+      <FileName>wqUPhRa6DEq1IRDeWxPsxw\Recorder.data</FileName>
+      <IndexFileName>wqUPhRa6DEq1IRDeWxPsxw\Recorder.index</IndexFileName>
+      <LogicalName>Recorder</LogicalName>
+      <PhysicalName>24c24cfe-9107-4a15-9b15-5fa844c1d4ce</PhysicalName>
+      <Properties>
+        <PropertyList />
+      </Properties>
+      <TimeSource xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+        <d3p1:Description>High resolution system clock. Frequency: 10000000</d3p1:Description>
+        <d3p1:Epoch>2025-04-15T15:02:32.7475074+02:00</d3p1:Epoch>
+        <d3p1:EpochPrecision>PT5M</d3p1:EpochPrecision>
+        <d3p1:Id>12d36561-651a-4cac-a94e-65c270db5da0</d3p1:Id>
+        <d3p1:IsAbsolute>true</d3p1:IsAbsolute>
+      </TimeSource>
+    </RecordingSensor>
+    <RecordingSensor>
+      <DataType>Tobii.Studio.Recording.Transport.RecordingInfoData</DataType>
+      <FileName>wqUPhRa6DEq1IRDeWxPsxw\RecorderInfo.data</FileName>
+      <IndexFileName>wqUPhRa6DEq1IRDeWxPsxw\RecorderInfo.index</IndexFileName>
+      <LogicalName>RecorderInfo</LogicalName>
+      <PhysicalName>82ec8f2f-4c7d-4ce8-ab5a-ffe35b3a6cb1</PhysicalName>
+      <Properties>
+        <PropertyList />
+      </Properties>
+      <TimeSource xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+        <d3p1:Description>High resolution system clock. Frequency: 10000000</d3p1:Description>
+        <d3p1:Epoch>2025-04-15T15:02:32.7475074+02:00</d3p1:Epoch>
+        <d3p1:EpochPrecision>PT5M</d3p1:EpochPrecision>
+        <d3p1:Id>12d36561-651a-4cac-a94e-65c270db5da0</d3p1:Id>
+        <d3p1:IsAbsolute>true</d3p1:IsAbsolute>
+      </TimeSource>
+    </RecordingSensor>
+    <RecordingSensor>
+      <DataType>Tobii.Studio.Sensors.Hid.Transport.Mouse.MouseData</DataType>
+      <FileName>wqUPhRa6DEq1IRDeWxPsxw\Mouse.data</FileName>
+      <IndexFileName>wqUPhRa6DEq1IRDeWxPsxw\Mouse.index</IndexFileName>
+      <LogicalName>Mouse</LogicalName>
+      <PhysicalName>System mouse</PhysicalName>
+      <Properties>
+        <PropertyList>
+          <PropertyData>
+            <AllowNull>false</AllowNull>
+            <DataValue xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string">\\.\DISPLAY1</DataValue>
+            <Name>PresentationDevice</Name>
+            <TypeName>String</TypeName>
+          </PropertyData>
+        </PropertyList>
+      </Properties>
+      <TimeSource xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+        <d3p1:Description>High resolution system clock. Frequency: 10000000</d3p1:Description>
+        <d3p1:Epoch>2025-04-15T15:02:32.7475074+02:00</d3p1:Epoch>
+        <d3p1:EpochPrecision>PT5M</d3p1:EpochPrecision>
+        <d3p1:Id>12d36561-651a-4cac-a94e-65c270db5da0</d3p1:Id>
+        <d3p1:IsAbsolute>true</d3p1:IsAbsolute>
+      </TimeSource>
+    </RecordingSensor>
+    <RecordingSensor>
+      <DataType>Tobii.Studio.Sensors.Hid.Transport.Keyboard.KeyboardData</DataType>
+      <FileName>wqUPhRa6DEq1IRDeWxPsxw\Keyboard.data</FileName>
+      <IndexFileName>wqUPhRa6DEq1IRDeWxPsxw\Keyboard.index</IndexFileName>
+      <LogicalName>Keyboard</LogicalName>
+      <PhysicalName>System keyboard</PhysicalName>
+      <Properties>
+        <PropertyList />
+      </Properties>
+      <TimeSource xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+        <d3p1:Description>High resolution system clock. Frequency: 10000000</d3p1:Description>
+        <d3p1:Epoch>2025-04-15T15:02:32.7475074+02:00</d3p1:Epoch>
+        <d3p1:EpochPrecision>PT5M</d3p1:EpochPrecision>
+        <d3p1:Id>12d36561-651a-4cac-a94e-65c270db5da0</d3p1:Id>
+        <d3p1:IsAbsolute>true</d3p1:IsAbsolute>
+      </TimeSource>
+    </RecordingSensor>
+    <RecordingSensor>
+      <DataType>Tobii.Studio.Sensors.PerformanceCounter.Transport.PerformanceCounterData</DataType>
+      <FileName>wqUPhRa6DEq1IRDeWxPsxw\Diagnostics.data</FileName>
+      <IndexFileName>wqUPhRa6DEq1IRDeWxPsxw\Diagnostics.index</IndexFileName>
+      <LogicalName>Diagnostics</LogicalName>
+      <PhysicalName>PerformanceCounterC42ECC2A</PhysicalName>
+      <Properties>
+        <PropertyList>
+          <PropertyData>
+            <AllowNull>false</AllowNull>
+            <DataValue xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string">Processor, % Processor Time, 0;Processor, % Processor Time, 1;Processor, % Processor Time, 2;Processor, % Processor Time, 3;Processor, % Processor Time, 4;Processor, % Processor Time, 5;Processor, % Processor Time, 6;Processor, % Processor Time, 7;Processor, % Processor Time, 8;Processor, % Processor Time, 9;Processor, % Processor Time, 10;Processor, % Processor Time, 11;Processor, % Processor Time, 12;Processor, % Processor Time, 13;Processor, % Processor Time, 14;Processor, % Processor Time, 15;Processor, % Processor Time, _Total</DataValue>
+            <Name>PerformanceCounters</Name>
+            <TypeName>String</TypeName>
+          </PropertyData>
+        </PropertyList>
+      </Properties>
+      <TimeSource xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+        <d3p1:Description>High resolution system clock. Frequency: 10000000</d3p1:Description>
+        <d3p1:Epoch>2025-04-15T15:02:32.7475074+02:00</d3p1:Epoch>
+        <d3p1:EpochPrecision>PT5M</d3p1:EpochPrecision>
+        <d3p1:Id>12d36561-651a-4cac-a94e-65c270db5da0</d3p1:Id>
+        <d3p1:IsAbsolute>true</d3p1:IsAbsolute>
+      </TimeSource>
+    </RecordingSensor>
+    <RecordingSensor>
+      <DataType>Tobii.Studio.Sensors.Eyetracker.Transport.RemoteTrackerGazeData</DataType>
+      <FileName>wqUPhRa6DEq1IRDeWxPsxw\Eyetracker.data</FileName>
+      <IndexFileName>wqUPhRa6DEq1IRDeWxPsxw\Eyetracker.index</IndexFileName>
+      <LogicalName>Eyetracker</LogicalName>
+      <PhysicalName>TPNA1-030109721694</PhysicalName>
+      <Properties>
+        <PropertyList>
+          <PropertyData>
+            <AllowNull>false</AllowNull>
+            <DataValue xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string">Tobii Pro Nano</DataValue>
+            <Name>Model</Name>
+            <TypeName>String</TypeName>
+          </PropertyData>
+          <PropertyData>
+            <AllowNull>false</AllowNull>
+            <DataValue xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string">False</DataValue>
+            <Name>IsConsumerDevice</Name>
+            <TypeName>String</TypeName>
+          </PropertyData>
+          <PropertyData>
+            <AllowNull>false</AllowNull>
+            <DataValue xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string">Professional</DataValue>
+            <Name>LicenseLevel</Name>
+            <TypeName>String</TypeName>
+          </PropertyData>
+          <PropertyData>
+            <AllowNull>false</AllowNull>
+            <DataValue xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string">2.41.0-f2dc56e</DataValue>
+            <Name>FirmwareVersion</Name>
+            <TypeName>String</TypeName>
+          </PropertyData>
+          <PropertyData>
+            <AllowNull>false</AllowNull>
+            <DataValue xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string">TobiiProNano</DataValue>
+            <Name>EyetrackerType</Name>
+            <TypeName>String</TypeName>
+          </PropertyData>
+          <PropertyData>
+            <AllowNull>false</AllowNull>
+            <DataValue xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string">2.41.0-f2dc56e</DataValue>
+            <Name>Firmware</Name>
+            <TypeName>String</TypeName>
+          </PropertyData>
+          <PropertyData>
+            <AllowNull>false</AllowNull>
+            <DataValue xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string">60</DataValue>
+            <Name>FrequencyValues</Name>
+            <TypeName>String</TypeName>
+          </PropertyData>
+          <PropertyData>
+            <AllowNull>false</AllowNull>
+            <DataValue xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string">Default</DataValue>
+            <Name>EyetrackingModes</Name>
+            <TypeName>String</TypeName>
+          </PropertyData>
+          <PropertyData>
+            <AllowNull>false</AllowNull>
+            <DataValue xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string">60</DataValue>
+            <Name>GazeSamplingFrequency</Name>
+            <TypeName>String</TypeName>
+          </PropertyData>
+          <PropertyData>
+            <AllowNull>false</AllowNull>
+            <DataValue xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string">Default</DataValue>
+            <Name>EyetrackingMode</Name>
+            <TypeName>String</TypeName>
+          </PropertyData>
+          <PropertyData>
+            <AllowNull>false</AllowNull>
+            <DataValue xmlns:d6p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time" i:type="d6p1:Duration">
+              <d6p1:Microseconds>20000</d6p1:Microseconds>
+            </DataValue>
+            <Name>SamplingInterval</Name>
+            <TypeName>Duration</TypeName>
+          </PropertyData>
+        </PropertyList>
+      </Properties>
+      <TimeSource xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+        <d3p1:Description>High resolution system clock. Frequency: 10000000</d3p1:Description>
+        <d3p1:Epoch>2025-04-15T15:02:32.7475074+02:00</d3p1:Epoch>
+        <d3p1:EpochPrecision>PT5M</d3p1:EpochPrecision>
+        <d3p1:Id>12d36561-651a-4cac-a94e-65c270db5da0</d3p1:Id>
+        <d3p1:IsAbsolute>true</d3p1:IsAbsolute>
+      </TimeSource>
+    </RecordingSensor>
+    <RecordingSensor>
+      <DataType>Tobii.Studio.Sensors.Hid.Transport.MouseCursor.MouseCursorData</DataType>
+      <FileName>wqUPhRa6DEq1IRDeWxPsxw\MouseCursor.data</FileName>
+      <IndexFileName>wqUPhRa6DEq1IRDeWxPsxw\MouseCursor.index</IndexFileName>
+      <LogicalName>MouseCursor</LogicalName>
+      <PhysicalName>Mouse Cursor</PhysicalName>
+      <Properties>
+        <PropertyList />
+      </Properties>
+      <TimeSource xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+        <d3p1:Description>High resolution system clock. Frequency: 10000000</d3p1:Description>
+        <d3p1:Epoch>2025-04-15T15:02:32.7475074+02:00</d3p1:Epoch>
+        <d3p1:EpochPrecision>PT5M</d3p1:EpochPrecision>
+        <d3p1:Id>12d36561-651a-4cac-a94e-65c270db5da0</d3p1:Id>
+        <d3p1:IsAbsolute>true</d3p1:IsAbsolute>
+      </TimeSource>
+    </RecordingSensor>
+    <RecordingSensor>
+      <DataType>Tobii.Studio.Stimuli.CompositeChannel.CompositeChannelData</DataType>
+      <FileName>wqUPhRa6DEq1IRDeWxPsxw\Composite.data</FileName>
+      <IndexFileName>wqUPhRa6DEq1IRDeWxPsxw\Composite.index</IndexFileName>
+      <LogicalName>Composite</LogicalName>
+      <PhysicalName>792488ab-86f6-4d46-a9f0-f69ebb2791ad</PhysicalName>
+      <Properties>
+        <PropertyList />
+      </Properties>
+      <TimeSource xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+        <d3p1:Description>High resolution system clock. Frequency: 10000000</d3p1:Description>
+        <d3p1:Epoch>2025-04-15T15:02:32.7475074+02:00</d3p1:Epoch>
+        <d3p1:EpochPrecision>PT5M</d3p1:EpochPrecision>
+        <d3p1:Id>12d36561-651a-4cac-a94e-65c270db5da0</d3p1:Id>
+        <d3p1:IsAbsolute>true</d3p1:IsAbsolute>
+      </TimeSource>
+    </RecordingSensor>
+    <RecordingSensor>
+      <DataType>Tobii.Studio.Stimuli.CompositeChannel.VideoTraceData</DataType>
+      <FileName>wqUPhRa6DEq1IRDeWxPsxw\CompositeLog.data</FileName>
+      <IndexFileName>wqUPhRa6DEq1IRDeWxPsxw\CompositeLog.index</IndexFileName>
+      <LogicalName>CompositeLog</LogicalName>
+      <PhysicalName>49b3d9c3-1b8b-45a9-be12-388dbb300a19</PhysicalName>
+      <Properties>
+        <PropertyList />
+      </Properties>
+      <TimeSource xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+        <d3p1:Description>High resolution system clock. Frequency: 10000000</d3p1:Description>
+        <d3p1:Epoch>2025-04-15T15:02:32.7475074+02:00</d3p1:Epoch>
+        <d3p1:EpochPrecision>PT5M</d3p1:EpochPrecision>
+        <d3p1:Id>12d36561-651a-4cac-a94e-65c270db5da0</d3p1:Id>
+        <d3p1:IsAbsolute>true</d3p1:IsAbsolute>
+      </TimeSource>
+    </RecordingSensor>
+    <RecordingSensor>
+      <DataType>Tobii.Studio.Recording.Transport.StimulusPresentationEventData</DataType>
+      <FileName>wqUPhRa6DEq1IRDeWxPsxw\ElementPresentation.data</FileName>
+      <IndexFileName>wqUPhRa6DEq1IRDeWxPsxw\ElementPresentation.index</IndexFileName>
+      <LogicalName>ElementPresentation</LogicalName>
+      <PhysicalName>6e14b422-ee91-4502-8889-92173dc45ddf</PhysicalName>
+      <Properties>
+        <PropertyList />
+      </Properties>
+      <TimeSource xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+        <d3p1:Description>High resolution system clock. Frequency: 10000000</d3p1:Description>
+        <d3p1:Epoch>2025-04-15T15:02:32.7475074+02:00</d3p1:Epoch>
+        <d3p1:EpochPrecision>PT5M</d3p1:EpochPrecision>
+        <d3p1:Id>12d36561-651a-4cac-a94e-65c270db5da0</d3p1:Id>
+        <d3p1:IsAbsolute>true</d3p1:IsAbsolute>
+      </TimeSource>
+    </RecordingSensor>
+    <RecordingSensor>
+      <DataType>Tobii.Studio.Sensors.Eyetracker.Transport.CalibrationData</DataType>
+      <FileName>wqUPhRa6DEq1IRDeWxPsxw\EyetrackerCalibration.data</FileName>
+      <IndexFileName>wqUPhRa6DEq1IRDeWxPsxw\EyetrackerCalibration.index</IndexFileName>
+      <LogicalName>EyetrackerCalibration</LogicalName>
+      <PhysicalName>91d8a53b-99b2-45c0-b72b-8fcdbea3e10c</PhysicalName>
+      <Properties>
+        <PropertyList />
+      </Properties>
+      <TimeSource xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+        <d3p1:Description>High resolution system clock. Frequency: 10000000</d3p1:Description>
+        <d3p1:Epoch>2025-04-15T15:02:32.7475074+02:00</d3p1:Epoch>
+        <d3p1:EpochPrecision>PT5M</d3p1:EpochPrecision>
+        <d3p1:Id>12d36561-651a-4cac-a94e-65c270db5da0</d3p1:Id>
+        <d3p1:IsAbsolute>true</d3p1:IsAbsolute>
+      </TimeSource>
+    </RecordingSensor>
+    <RecordingSensor>
+      <DataType>Tobii.Studio.Sensors.Eyetracker.Transport.ValidationData</DataType>
+      <FileName>wqUPhRa6DEq1IRDeWxPsxw\EyetrackerValidation.data</FileName>
+      <IndexFileName>wqUPhRa6DEq1IRDeWxPsxw\EyetrackerValidation.index</IndexFileName>
+      <LogicalName>EyetrackerValidation</LogicalName>
+      <PhysicalName>024ad00c-6f36-41c8-8258-424780436d6e</PhysicalName>
+      <Properties>
+        <PropertyList />
+      </Properties>
+      <TimeSource xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+        <d3p1:Description>High resolution system clock. Frequency: 10000000</d3p1:Description>
+        <d3p1:Epoch>2025-04-15T15:02:32.7475074+02:00</d3p1:Epoch>
+        <d3p1:EpochPrecision>PT5M</d3p1:EpochPrecision>
+        <d3p1:Id>12d36561-651a-4cac-a94e-65c270db5da0</d3p1:Id>
+        <d3p1:IsAbsolute>true</d3p1:IsAbsolute>
+      </TimeSource>
+    </RecordingSensor>
+    <RecordingSensor>
+      <DataType>Tobii.Studio.ScreenCapture.Transport.VideoCaptureData</DataType>
+      <FileName>wqUPhRa6DEq1IRDeWxPsxw\VideoCapture.data</FileName>
+      <IndexFileName>wqUPhRa6DEq1IRDeWxPsxw\VideoCapture.index</IndexFileName>
+      <LogicalName>VideoCapture</LogicalName>
+      <PhysicalName>33a83ca7-b140-48bd-aa10-1ec9010f08ee</PhysicalName>
+      <Properties>
+        <PropertyList />
+      </Properties>
+      <TimeSource xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+        <d3p1:Description>High resolution system clock. Frequency: 10000000</d3p1:Description>
+        <d3p1:Epoch>2025-04-15T15:02:32.7475074+02:00</d3p1:Epoch>
+        <d3p1:EpochPrecision>PT5M</d3p1:EpochPrecision>
+        <d3p1:Id>12d36561-651a-4cac-a94e-65c270db5da0</d3p1:Id>
+        <d3p1:IsAbsolute>true</d3p1:IsAbsolute>
+      </TimeSource>
+    </RecordingSensor>
+    <RecordingSensor>
+      <DataType>Tobii.Studio.Web.Transport.WebNavigationData</DataType>
+      <FileName>wqUPhRa6DEq1IRDeWxPsxw\WebNavigation.data</FileName>
+      <IndexFileName>wqUPhRa6DEq1IRDeWxPsxw\WebNavigation.index</IndexFileName>
+      <LogicalName>WebNavigation</LogicalName>
+      <PhysicalName>91fb7335-6d39-4b20-a854-4b8eeab00de1</PhysicalName>
+      <Properties>
+        <PropertyList />
+      </Properties>
+      <TimeSource xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+        <d3p1:Description>High resolution system clock. Frequency: 10000000</d3p1:Description>
+        <d3p1:Epoch>2025-04-15T15:02:32.7475074+02:00</d3p1:Epoch>
+        <d3p1:EpochPrecision>PT5M</d3p1:EpochPrecision>
+        <d3p1:Id>12d36561-651a-4cac-a94e-65c270db5da0</d3p1:Id>
+        <d3p1:IsAbsolute>true</d3p1:IsAbsolute>
+      </TimeSource>
+    </RecordingSensor>
+    <RecordingSensor>
+      <DataType>Tobii.Studio.Web.Transport.WebScreenshotData</DataType>
+      <FileName>wqUPhRa6DEq1IRDeWxPsxw\WebScreenshot.data</FileName>
+      <IndexFileName>wqUPhRa6DEq1IRDeWxPsxw\WebScreenshot.index</IndexFileName>
+      <LogicalName>WebScreenshot</LogicalName>
+      <PhysicalName>57abdb38-3e39-49ab-b86c-6dfd60bf0417</PhysicalName>
+      <Properties>
+        <PropertyList />
+      </Properties>
+      <TimeSource xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+        <d3p1:Description>High resolution system clock. Frequency: 10000000</d3p1:Description>
+        <d3p1:Epoch>2025-04-15T15:02:32.7475074+02:00</d3p1:Epoch>
+        <d3p1:EpochPrecision>PT5M</d3p1:EpochPrecision>
+        <d3p1:Id>12d36561-651a-4cac-a94e-65c270db5da0</d3p1:Id>
+        <d3p1:IsAbsolute>true</d3p1:IsAbsolute>
+      </TimeSource>
+    </RecordingSensor>
+    <RecordingSensor>
+      <DataType>Tobii.Studio.Web.Transport.ViewPortData</DataType>
+      <FileName>wqUPhRa6DEq1IRDeWxPsxw\WebBrowserViewPort.data</FileName>
+      <IndexFileName>wqUPhRa6DEq1IRDeWxPsxw\WebBrowserViewPort.index</IndexFileName>
+      <LogicalName>WebBrowserViewPort</LogicalName>
+      <PhysicalName>18d35aa2-a7f9-48ee-a0d5-309f3da263f7</PhysicalName>
+      <Properties>
+        <PropertyList />
+      </Properties>
+      <TimeSource xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+        <d3p1:Description>High resolution system clock. Frequency: 10000000</d3p1:Description>
+        <d3p1:Epoch>2025-04-15T15:02:32.7475074+02:00</d3p1:Epoch>
+        <d3p1:EpochPrecision>PT5M</d3p1:EpochPrecision>
+        <d3p1:Id>12d36561-651a-4cac-a94e-65c270db5da0</d3p1:Id>
+        <d3p1:IsAbsolute>true</d3p1:IsAbsolute>
+      </TimeSource>
+    </RecordingSensor>
+  </Sensors>
+  <StartDateTimeUtcInTicks>638810837150800239</StartDateTimeUtcInTicks>
+  <TimeSource xmlns:d1p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+    <d1p1:Description>High resolution system clock. Frequency: 10000000</d1p1:Description>
+    <d1p1:Epoch>2025-04-15T15:02:32.7475074+02:00</d1p1:Epoch>
+    <d1p1:EpochPrecision>PT5M</d1p1:EpochPrecision>
+    <d1p1:Id>12d36561-651a-4cac-a94e-65c270db5da0</d1p1:Id>
+    <d1p1:IsAbsolute>true</d1p1:IsAbsolute>
+  </TimeSource>
+</RecordingBrief>

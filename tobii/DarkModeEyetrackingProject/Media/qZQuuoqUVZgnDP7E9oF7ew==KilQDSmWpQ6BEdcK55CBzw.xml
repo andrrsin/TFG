@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FileDescriptor xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Key>0d50292a-9629-0ea5-8111-d70ae79081cf</Key>
+  <OriginalFileName>Original-1.png</OriginalFileName>
+  <TargetFileSize>49232</TargetFileSize>
+  <OriginalFileHash>qZQuuoqUVZgnDP7E9oF7ew==</OriginalFileHash>
+  <OriginalFilePath>C:\Users\sveci\Documents\Tobii Pro Lab\DescriptionsAndDarkMode\Temp\Original-1.png</OriginalFilePath>
+  <PropertyBag>
+    <Property>
+      <Key>IsOriginal</Key>
+      <Value>True</Value>
+    </Property>
+  </PropertyBag>
+  <IsReady>true</IsReady>
+  <Dimensions xmlns:d1p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+    <d1p1:Height>1080</d1p1:Height>
+    <d1p1:Width>1920</d1p1:Width>
+  </Dimensions>
+  <Duration xmlns:d1p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+    <d1p1:Microseconds>0</d1p1:Microseconds>
+  </Duration>
+  <Type>Image</Type>
+  <TargetFileName>qZQuuoqUVZgnDP7E9oF7ew==.png</TargetFileName>
+</FileDescriptor>

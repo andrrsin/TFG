@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TimelineTransport xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Tobii.Studio.Design.Transport">
+  <Contexts>
+    <ContextTransport>
+      <Id>9ab78ea1-ead8-40d4-9566-1a1e76854de9</Id>
+      <Iteration>0</Iteration>
+      <ParentId i:nil="true" />
+      <Source>97d59cf9-443b-4277-91f5-20d16b8d7609</Source>
+    </ContextTransport>
+  </Contexts>
+  <Id>34404298-2d44-484e-a7c1-72f1c0598e7b</Id>
+  <Key>8c4d068d-1cef-499f-91c2-448883b1c58c</Key>
+  <Name>Timeline1-Mode1</Name>
+</TimelineTransport>

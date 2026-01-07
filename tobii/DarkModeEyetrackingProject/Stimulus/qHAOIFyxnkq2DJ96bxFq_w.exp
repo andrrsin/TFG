@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StimulusTransportBase xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Tobii.Studio.Design.Transport">
+  <Key>200e70a8-b15c-4a9e-b60c-9f7a6f116aff</Key>
+  <Value i:type="InstructionsStimulusTransport">
+    <Channel>WpfChannel</Channel>
+    <Id>35f3babf-c810-4f14-8fb3-2ad92aa6427b</Id>
+    <Name>Text</Name>
+    <BackgroundColor xmlns:d2p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+      <d2p1:A>255</d2p1:A>
+      <d2p1:B>27</d2p1:B>
+      <d2p1:G>26</d2p1:G>
+      <d2p1:R>24</d2p1:R>
+    </BackgroundColor>
+    <IsMouseCursorVisible>false</IsMouseCursorVisible>
+    <Margin>5</Margin>
+    <Markup>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;head&gt;&lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8" /&gt;&lt;title&gt;Untitled&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p style="margin-top: 6.66px;margin-bottom: 6.66px;line-height: 1.15;text-align: center;"&gt;&lt;span style="font-family: 'Roboto';font-style: Normal;font-weight: normal;font-size: 48px;color: #FFFFFF;"&gt;Este experimento va a consistir en leer dos textos y posteriormente contestar unas preguntas relacionadas con ellos. &lt;/span&gt;&lt;/p&gt;&lt;p style="margin-top: 6.66px;margin-bottom: 6.66px;line-height: 1.15;text-align: center;"&gt;&lt;span style="font-family: 'Roboto';font-style: Normal;font-weight: normal;font-size: 48px;color: #FFFFFF;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style="margin-top: 6.66px;margin-bottom: 6.66px;line-height: 1.15;text-align: center;"&gt;&lt;span style="font-family: 'Roboto';font-style: Normal;font-weight: normal;font-size: 48px;color: #FFFFFF;"&gt;No hay tiempo l&amp;iacute;mite para cada pantalla, cuando consideres que la has leido, haz click en una tecla y pasar&amp;aacute;s a la siguiente.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin-top: 6.66px;margin-bottom: 6.66px;line-height: 1.15;text-align: center;"&gt;&lt;span style="font-family: 'Roboto';font-style: Normal;font-weight: normal;font-size: 48px;color: #FFFFFF;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style="margin-top: 0px;margin-bottom: 0px;line-height: 1.15;text-align: center;"&gt;&lt;span style="font-family: 'Roboto';font-style: Normal;font-weight: normal;font-size: 48px;color: #FFFFFF;"&gt;Para comenzar el experimento, haz click en una tecla.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin-top: 6.66px;margin-bottom: 6.66px;line-height: 1.15;text-align: center;"&gt;&lt;span style="font-family: 'Courier New';font-style: Normal;font-weight: normal;font-size: 48px;color: #FFFFFF;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Markup>
+    <Resolution xmlns:d2p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+      <d2p1:Height>1080</d2p1:Height>
+      <d2p1:Width>1920</d2p1:Width>
+    </Resolution>
+    <SupportsReadingResearch>true</SupportsReadingResearch>
+  </Value>
+</StimulusTransportBase>

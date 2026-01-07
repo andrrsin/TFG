@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Author i:nil="true" />
+  <CreationDate>2025-04-03T12:14:14.4980445+02:00</CreationDate>
+  <DatabaseVersionNumber>6</DatabaseVersionNumber>
+  <Description i:nil="true" />
+  <LastSaveDate>2025-10-11T20:31:09.7645587+02:00</LastSaveDate>
+  <LatestBreakingMigration>D88D397C-C923-4AB3-B92F-FDDC1184AF9C</LatestBreakingMigration>
+  <Name>DescriptionsAndDarkMode</Name>
+  <ProjectId>9ff0b94c-8e73-8dfb-b955-b29e91b8f29e</ProjectId>
+  <Properties xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d1p1:KeyValueOfstringstring>
+      <d1p1:Key>ProjectType</d1p1:Key>
+      <d1p1:Value>ScreenBased</d1p1:Value>
+    </d1p1:KeyValueOfstringstring>
+    <d1p1:KeyValueOfstringstring>
+      <d1p1:Key>CreationMethod</d1p1:Key>
+      <d1p1:Value>Manual</d1p1:Value>
+    </d1p1:KeyValueOfstringstring>
+    <d1p1:KeyValueOfstringstring>
+      <d1p1:Key>CreatedInVersion</d1p1:Key>
+      <d1p1:Value>1.162.32461</d1p1:Value>
+    </d1p1:KeyValueOfstringstring>
+    <d1p1:KeyValueOfstringstring>
+      <d1p1:Key>LastSavedInVersion</d1p1:Key>
+      <d1p1:Value>1.162.32461</d1p1:Value>
+    </d1p1:KeyValueOfstringstring>
+  </Properties>
+  <Version>8f78e461-412a-44b7-89eb-cf9f20bbd107</Version>
+</ProjectInfo>

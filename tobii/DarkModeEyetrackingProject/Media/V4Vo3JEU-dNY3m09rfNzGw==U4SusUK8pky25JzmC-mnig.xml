@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FileDescriptor xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Key>b1ae8453-bc42-4ca6-b6e4-9ce60be9a78a</Key>
+  <OriginalFileName>Encuesta TFG (183).png</OriginalFileName>
+  <TargetFileSize>47043</TargetFileSize>
+  <OriginalFileHash>V4Vo3JEU+dNY3m09rfNzGw==</OriginalFileHash>
+  <OriginalFilePath>C:\Users\sveci\Documents\Tobii Pro Lab\DescriptionsAndDarkMode\Temp\f1cyk2gg.0iz</OriginalFilePath>
+  <PropertyBag>
+    <Property>
+      <Key>IsOriginal</Key>
+      <Value>True</Value>
+    </Property>
+  </PropertyBag>
+  <IsReady>true</IsReady>
+  <Dimensions xmlns:d1p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+    <d1p1:Height>1036</d1p1:Height>
+    <d1p1:Width>1920</d1p1:Width>
+  </Dimensions>
+  <Duration xmlns:d1p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+    <d1p1:Microseconds>0</d1p1:Microseconds>
+  </Duration>
+  <Type>Image</Type>
+  <TargetFileName>V4Vo3JEU-dNY3m09rfNzGw==.png</TargetFileName>
+</FileDescriptor>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FileDescriptor xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Key>e8a71a9c-fcff-43df-9c80-297618fe3fbf</Key>
+  <OriginalFileName>Questionnaire2 Recording20.mp4</OriginalFileName>
+  <TargetFileSize>9513085</TargetFileSize>
+  <OriginalFileHash>66gHreNxs923HJgTtASUPw==</OriginalFileHash>
+  <OriginalFilePath>C:\Users\sveci\Documents\Tobii Pro Lab\DescriptionsAndDarkMode\Temp\z1ciahn4.xca.mp4</OriginalFilePath>
+  <PropertyBag>
+    <Property>
+      <Key>IsOriginal</Key>
+      <Value>True</Value>
+    </Property>
+  </PropertyBag>
+  <IsReady>true</IsReady>
+  <Dimensions xmlns:d1p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+    <d1p1:Height>1080</d1p1:Height>
+    <d1p1:Width>1920</d1p1:Width>
+  </Dimensions>
+  <Duration xmlns:d1p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+    <d1p1:Microseconds>147800880</d1p1:Microseconds>
+  </Duration>
+  <Type>Video</Type>
+  <TargetFileName>66gHreNxs923HJgTtASUPw==.mp4</TargetFileName>
+</FileDescriptor>

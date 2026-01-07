@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIConfiguration xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Key>b911ae83-8649-4dd8-bb38-f2c1c11fe88f</Key>
+  <Properties>
+    <PropertyTransport>
+      <AllowNull>false</AllowNull>
+      <DataValue xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.Studio.Design.Transport" i:type="d3p1:CalibrationControlsOption">ParticipantScreen</DataValue>
+      <Description>Set: 03/04/2025 12:34</Description>
+      <Name>SelectedControlsOption</Name>
+      <TypeName>CalibrationControlsRecording</TypeName>
+    </PropertyTransport>
+    <PropertyTransport>
+      <AllowNull>false</AllowNull>
+      <DataValue xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/" i:type="d3p1:guid">34404298-2d44-484e-a7c1-72f1c0598e7b</DataValue>
+      <Description>Set: 03/10/2025 16:36</Description>
+      <Name>SelectedItemId</Name>
+      <TypeName>PrerecorderTimelineSelector</TypeName>
+    </PropertyTransport>
+  </Properties>
+</UIConfiguration>

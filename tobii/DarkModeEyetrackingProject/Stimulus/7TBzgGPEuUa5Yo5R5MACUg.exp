@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StimulusTransportBase xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Tobii.Studio.Design.Transport">
+  <Key>807330ed-c463-46b9-b962-8e51e4c00252</Key>
+  <Value i:type="InstructionsStimulusTransport">
+    <Channel>WpfChannel</Channel>
+    <Id>4532c3a1-83eb-4f85-801e-3df41a37c5f4</Id>
+    <Name>Llama-2</Name>
+    <BackgroundColor xmlns:d2p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+      <d2p1:A>255</d2p1:A>
+      <d2p1:B>211</d2p1:B>
+      <d2p1:G>211</d2p1:G>
+      <d2p1:R>211</d2p1:R>
+    </BackgroundColor>
+    <IsMouseCursorVisible>false</IsMouseCursorVisible>
+    <Margin>4</Margin>
+    <Markup>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;head&gt;&lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8" /&gt;&lt;title&gt;Untitled&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p style="margin-top: 6.66px;margin-bottom: 6.66px;line-height: 1.5;text-align: left;"&gt;&lt;span style="font-family: 'Roboto';font-style: Normal;font-weight: normal;font-size: 24px;color: #000000;"&gt;Introducing the U-Watch Smartwatch - a sleek and innovative accessory that keeps you connected to your phone via Bluetooth. With its OLED screen display, integrated microphone and speaker, and compatibility with all Bluetooth devices, U-Watch acts as a wireless dialer, allowing users to handle calls directly from their wrist. Stream music from your Bluetooth device and enjoy quality sound through U-Watch speaker. Forgot your phone on the desk? Misplaced it around the house? Afraid it might be stolen? U-Watch alerts you if your paired device is away. Whether you're an Android or iOS user, U-Watch is compatible with all bluetooth enabled devices, including the Samsung Note 4. We recommend installing the BTNotifer.apk for Android OS users to access additional features such as reading texts/other multimedia messages. With a built-in speaker and microphone, U-Watch allows you to make and receive calls, as well as send and receive texts directly from your wrist. The watch also has a built-in alarm, stopwatch, and remote notification features. U-Watch is designed to be easy to use and comes with a 1-year warranty. Whether you're looking for a stylish accessory or a practical tool to stay connected, U-Watch is the perfect choice. Order now and experience the convenience and flexibility of a smartwatch.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Markup>
+    <Resolution xmlns:d2p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+      <d2p1:Height>1080</d2p1:Height>
+      <d2p1:Width>1920</d2p1:Width>
+    </Resolution>
+    <SupportsReadingResearch>true</SupportsReadingResearch>
+  </Value>
+</StimulusTransportBase>

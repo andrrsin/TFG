@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StimulusTransportBase xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Tobii.Studio.Design.Transport">
+  <Key>c0b07f81-00a4-4652-aead-92ebdc90356f</Key>
+  <Value i:type="InstructionsStimulusTransport">
+    <Channel>WpfChannel</Channel>
+    <Id>c5ffc253-c693-45f7-822f-96744cfd2dba</Id>
+    <Name>Original-2</Name>
+    <BackgroundColor xmlns:d2p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+      <d2p1:A>255</d2p1:A>
+      <d2p1:B>211</d2p1:B>
+      <d2p1:G>211</d2p1:G>
+      <d2p1:R>211</d2p1:R>
+    </BackgroundColor>
+    <IsMouseCursorVisible>false</IsMouseCursorVisible>
+    <Margin>4</Margin>
+    <Markup>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;head&gt;&lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8" /&gt;&lt;title&gt;Untitled&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p style="margin-top: 6.66px;margin-bottom: 6.66px;line-height: 1.5;text-align: left;"&gt;&lt;span style="font-family: 'Roboto';font-style: Normal;font-weight: normal;font-size: 24px;color: #000000;"&gt;inDigi U-Watch E6 is an innovative smartwatch that keeps you connected to your phone via Bluetooth. With its integrated microphone and speaker, U-Watch acts as a wireless dialer, allowing users to handle calls directly from their wrist. Compatible with all Bluetooth devices, U-Watch also syncs with Android 2.3+ and iOS 4.0+ smartphones to download phonebook and call history. Stream music from your Bluetooth device and enjoy quality sound through U-Watch speaker. Forgot your phone on the desk? Misplaced it around the house? Afraid it might be stolen? U-Watch alerts you if your paired device is away.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin-top: 6.66px;margin-bottom: 6.66px;line-height: 1.5;text-align: left;"&gt;&lt;span style="font-family: 'Roboto';font-style: Normal;font-weight: normal;font-size: 24px;color: #000000;"&gt;-&amp;nbsp; &amp;nbsp; Discover U-Watch Smart Watch, a sleek and minimalist smartwatch that brings your phone to your wrist via Bluetooth&lt;/span&gt;&lt;/p&gt;&lt;p style="margin-top: 6.66px;margin-bottom: 6.66px;line-height: 1.5;text-align: left;"&gt;&lt;span style="font-family: 'Roboto';font-style: Normal;font-weight: normal;font-size: 24px;color: #000000;"&gt;-&amp;nbsp; &amp;nbsp; With its OLED Screen Display, integrated microphone and speaker, U-Watch acts as a wireless dialer, allowing users to handle calls directly from their wrist.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin-top: 6.66px;margin-bottom: 6.66px;line-height: 1.5;text-align: left;"&gt;&lt;span style="font-family: 'Roboto';font-style: Normal;font-weight: normal;font-size: 24px;color: #000000;"&gt;-&amp;nbsp; &amp;nbsp; Compatible with all Bluetooth devices, U-Watch also syncs with Android 2.3+ and iOS 4.0+ smartphones to download phonebook, call history, and messaging.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin-top: 6.66px;margin-bottom: 6.66px;line-height: 1.5;text-align: left;"&gt;&lt;span style="font-family: 'Roboto';font-style: Normal;font-weight: normal;font-size: 24px;color: #000000;"&gt;-&amp;nbsp; &amp;nbsp; Music player: The WATCH can control the music to play or pause of your phone.&lt;/span&gt;&lt;/p&gt;&lt;p style="margin-top: 6.66px;margin-bottom: 6.66px;line-height: 1.5;text-align: left;"&gt;&lt;span style="font-family: 'Roboto';font-style: Normal;font-weight: normal;font-size: 24px;color: #000000;"&gt;-&amp;nbsp; &amp;nbsp; Time&amp;nbsp;&amp;nbsp; Calls&amp;nbsp;&amp;nbsp; Caller ID&amp;nbsp;&amp;nbsp; OLED Screen&amp;nbsp;&amp;nbsp; Phonebook&amp;nbsp;&amp;nbsp; Messaging&amp;nbsp;&amp;nbsp; Remote Norification&amp;nbsp; &amp;nbsp; Music&amp;nbsp;&amp;nbsp; Call History&amp;nbsp;&amp;nbsp; Anti-lost Alert&amp;nbsp;&amp;nbsp; Built-in Mic &amp;amp; Speaker&amp;nbsp;&amp;nbsp; Ringtone &amp;amp; Vibrate&amp;nbsp;&amp;nbsp; Stopwatch&amp;nbsp;&amp;nbsp; Alarm&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Markup>
+    <Resolution xmlns:d2p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+      <d2p1:Height>1080</d2p1:Height>
+      <d2p1:Width>1920</d2p1:Width>
+    </Resolution>
+    <SupportsReadingResearch>true</SupportsReadingResearch>
+  </Value>
+</StimulusTransportBase>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StimulusTransportBase xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Tobii.Studio.Design.Transport">
+  <Key>2ad40162-5d05-45a6-bfe9-cc02e0892a36</Key>
+  <Value i:type="WebStimulusTransport">
+    <Channel>WebChannel</Channel>
+    <Id>6dda5c83-84e5-4a18-80ee-5ebfc5bae965</Id>
+    <Name>Questionnaire-2</Name>
+    <SamplingIntervalMilliseconds>40</SamplingIntervalMilliseconds>
+    <ScreenCaptureQuality>High</ScreenCaptureQuality>
+    <Address>https://forms.gle/hNdwD8GfPPyNvxyb6</Address>
+    <Description i:nil="true" />
+    <ImageId>00000000-0000-0000-0000-000000000000</ImageId>
+    <IsAutomaticScreenshotCapturingEnabled>true</IsAutomaticScreenshotCapturingEnabled>
+  </Value>
+</StimulusTransportBase>

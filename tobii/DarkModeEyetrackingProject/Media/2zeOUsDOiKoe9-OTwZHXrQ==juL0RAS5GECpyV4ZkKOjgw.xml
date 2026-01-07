@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FileDescriptor xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Key>44f4e28e-b904-4018-a9c9-5e1990a3a383</Key>
+  <OriginalFileName>MochilaClaro.jpg</OriginalFileName>
+  <TargetFileSize>434701</TargetFileSize>
+  <OriginalFileHash>2zeOUsDOiKoe9+OTwZHXrQ==</OriginalFileHash>
+  <OriginalFilePath>C:\Users\sveci\Downloads\MochilaClaro.jpg</OriginalFilePath>
+  <PropertyBag>
+    <Property>
+      <Key>IsOriginal</Key>
+      <Value>True</Value>
+    </Property>
+  </PropertyBag>
+  <IsReady>true</IsReady>
+  <Dimensions xmlns:d1p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+    <d1p1:Height>905</d1p1:Height>
+    <d1p1:Width>1918</d1p1:Width>
+  </Dimensions>
+  <Duration xmlns:d1p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+    <d1p1:Microseconds>0</d1p1:Microseconds>
+  </Duration>
+  <Type>Image</Type>
+  <TargetFileName>2zeOUsDOiKoe9-OTwZHXrQ==.jpg</TargetFileName>
+</FileDescriptor>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FileDescriptor xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Key>4b195343-ac29-4dc3-bc72-da0298ebb806</Key>
+  <OriginalFileName>Questionnaire2 Recording15.mp4</OriginalFileName>
+  <TargetFileSize>9174176</TargetFileSize>
+  <OriginalFileHash>s203hIUl7MuZkX51Zxc9IA==</OriginalFileHash>
+  <OriginalFilePath>C:\Users\sveci\Documents\Tobii Pro Lab\DescriptionsAndDarkMode\Temp\0selmilg.jkv.mp4</OriginalFilePath>
+  <PropertyBag>
+    <Property>
+      <Key>IsOriginal</Key>
+      <Value>True</Value>
+    </Property>
+  </PropertyBag>
+  <IsReady>true</IsReady>
+  <Dimensions xmlns:d1p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+    <d1p1:Height>1080</d1p1:Height>
+    <d1p1:Width>1920</d1p1:Width>
+  </Dimensions>
+  <Duration xmlns:d1p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Time">
+    <d1p1:Microseconds>122641640</d1p1:Microseconds>
+  </Duration>
+  <Type>Video</Type>
+  <TargetFileName>s203hIUl7MuZkX51Zxc9IA==.mp4</TargetFileName>
+</FileDescriptor>

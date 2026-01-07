@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StimulusTransportBase xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Tobii.Studio.Design.Transport">
+  <Key>a316c659-e717-4623-8004-f352e9af6ead</Key>
+  <Value i:type="VisualStimulusTransport">
+    <Channel>CompositeChannel</Channel>
+    <Id>52da2be2-0f50-4366-bc7d-7d628f3eea26</Id>
+    <Name>MochilaClaro</Name>
+    <MediaId>44f4e28e-b904-4018-a9c9-5e1990a3a383</MediaId>
+    <StartPosition>0</StartPosition>
+    <BackgroundColor xmlns:d2p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+      <d2p1:A>255</d2p1:A>
+      <d2p1:B>0</d2p1:B>
+      <d2p1:G>0</d2p1:G>
+      <d2p1:R>0</d2p1:R>
+    </BackgroundColor>
+    <HorizontalAlignment>Center</HorizontalAlignment>
+    <IsMouseCursorVisible>false</IsMouseCursorVisible>
+    <StimulusSize xmlns:d2p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+      <d2p1:Height>905</d2p1:Height>
+      <d2p1:Width>1918</d2p1:Width>
+    </StimulusSize>
+    <Stretch>FitToScreen</Stretch>
+    <VerticalAlignment>Center</VerticalAlignment>
+  </Value>
+</StimulusTransportBase>

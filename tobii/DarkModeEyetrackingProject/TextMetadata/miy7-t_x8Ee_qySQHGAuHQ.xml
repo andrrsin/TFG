@@ -1,0 +1,3595 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextMetadataTransport xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Key>fabb2c9a-f1df-47f0-bfab-24901c602e1d</Key>
+  <LineHeightModifier>1.5</LineHeightModifier>
+  <Margin>4</Margin>
+  <MediaId>4acc5ff2-414a-0c48-8a29-65a9dd8aa839</MediaId>
+  <PresentationAreaSize xmlns:d1p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+    <d1p1:Height>1080</d1p1:Height>
+    <d1p1:Width>1920</d1p1:Width>
+  </PresentationAreaSize>
+  <TextAttributes xmlns:d1p1="http://schemas.datacontract.org/2004/07/Tobii.Studio.Instructions.Transport">
+    <d1p1:TextAttributesDto>
+      <d1p1:Key>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:Key>
+      <d1p1:TextAttributes xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation.Text">
+        <d3p1:FontColor xmlns:d4p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+          <d4p1:A>255</d4p1:A>
+          <d4p1:B>0</d4p1:B>
+          <d4p1:G>0</d4p1:G>
+          <d4p1:R>0</d4p1:R>
+        </d3p1:FontColor>
+        <d3p1:FontFamily>Roboto</d3p1:FontFamily>
+        <d3p1:FontSize>24</d3p1:FontSize>
+        <d3p1:FontStretch>5</d3p1:FontStretch>
+        <d3p1:FontStyle>Normal</d3p1:FontStyle>
+        <d3p1:FontUri i:nil="true" />
+        <d3p1:FontWeight>400</d3p1:FontWeight>
+        <d3p1:PixelsPerDip>1</d3p1:PixelsPerDip>
+      </d1p1:TextAttributes>
+    </d1p1:TextAttributesDto>
+  </TextAttributes>
+  <TextElements xmlns:d1p1="http://schemas.datacontract.org/2004/07/Tobii.Studio.Instructions.Transport">
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>69.797599792480469</d3p1:Width>
+        <d3p1:X>79</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>0</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>Fleece</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>148.79759979248047</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>1</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>63.513333333333335</d3p1:Width>
+        <d3p1:X>154.73919677734375</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>2</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>inside</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>4.71</d3p1:Width>
+        <d3p1:X>218.25253011067707</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>3</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>,</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>222.96640014648438</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>4</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>51.608798980712891</d3p1:Width>
+        <d3p1:X>228.90800476074219</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>5</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>thick</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>280.51679992675781</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>6</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>39.832000732421875</d3p1:Width>
+        <d3p1:X>286.45840454101563</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>7</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>and</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>326.2904052734375</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>8</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>60.24666666666667</d3p1:Width>
+        <d3p1:X>332.23200988769531</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>9</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>warm</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>4.71</d3p1:Width>
+        <d3p1:X>392.478676554362</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>10</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>,</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>397.18881225585938</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>11</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>85.4655990600586</d3p1:Width>
+        <d3p1:X>403.13040161132813</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>12</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>suggest</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>488.59600830078125</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>13</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>38.272800445556641</d3p1:Width>
+        <d3p1:X>494.53759765625</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>14</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>you</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>532.81039428710938</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>15</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>70.581596374511719</d3p1:Width>
+        <d3p1:X>538.75198364257813</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>16</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>buying</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>609.33355712890625</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>17</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>39.644798278808594</d3p1:Width>
+        <d3p1:X>615.275146484375</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>18</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>one</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>654.919921875</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>19</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>55.558399200439453</d3p1:Width>
+        <d3p1:X>660.86151123046875</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>20</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>more</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>716.419921875</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>21</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>42.808799743652344</d3p1:Width>
+        <d3p1:X>722.36151123046875</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>22</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>size</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>765.1702880859375</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>23</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>67.054397583007813</d3p1:Width>
+        <d3p1:X>771.11187744140625</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>24</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>bigger</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>6.3166666666666673</d3p1:Width>
+        <d3p1:X>838.166259765625</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>25</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>.</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>844.4830322265625</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>26</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>44.097599029541016</d3p1:Width>
+        <d3p1:X>850.42462158203125</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>27</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>Soft</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>894.522216796875</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>28</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>60.306666666666672</d3p1:Width>
+        <d3p1:X>900.46380615234375</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>29</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>touch</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>4.71</d3p1:Width>
+        <d3p1:X>960.77047281901037</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>30</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>,</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>965.71337890625</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>31</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>81.843333333333334</d3p1:Width>
+        <d3p1:X>971.65496826171875</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>32</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>smooth</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>4.71</d3p1:Width>
+        <d3p1:X>1053.498301595052</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>33</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>,</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1058.2093505859375</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>34</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>70.195198059082031</d3p1:Width>
+        <d3p1:X>1064.1509399414063</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>35</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>elastic</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1134.34619140625</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>36</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>45.058399200439453</d3p1:Width>
+        <d3p1:X>1140.287841796875</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>37</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>slim</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1185.34619140625</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>38</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>59.976799011230469</d3p1:Width>
+        <d3p1:X>1191.287841796875</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>39</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>pants</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1251.2646484375</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>40</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>97.4072036743164</d3p1:Width>
+        <d3p1:X>1257.206298828125</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>41</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>designed</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1354.613525390625</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>42</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>21.527200698852539</d3p1:Width>
+        <d3p1:X>1360.55517578125</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>43</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>to</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1382.0823974609375</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>44</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>57.316001892089844</d3p1:Width>
+        <d3p1:X>1388.0240478515625</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>45</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>show</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1445.340087890625</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>46</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>30.351200103759766</d3p1:Width>
+        <d3p1:X>1451.28173828125</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>47</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>off</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1481.6329345703125</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>48</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>92.9303970336914</d3p1:Width>
+        <d3p1:X>1487.5745849609375</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>49</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>feminine</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1580.5050048828125</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>50</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>96.2936019897461</d3p1:Width>
+        <d3p1:X>1586.4466552734375</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>51</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>elegance</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1682.740234375</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>52</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>39.832000732421875</d3p1:Width>
+        <d3p1:X>1688.681884765625</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>53</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>and</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1728.513916015625</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>54</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>48.340000152587891</d3p1:Width>
+        <d3p1:X>1734.45556640625</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>55</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>sexy</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>6.3166666666666673</d3p1:Width>
+        <d3p1:X>1782.7955322265625</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>56</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>.</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1789.1123046875</d3p1:X>
+        <d3p1:Y>328.65999984741211</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>57</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>57.257598876953125</d3p1:Width>
+        <d3p1:X>79</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>58</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>Good</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>136.25759887695313</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>59</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>21.527200698852539</d3p1:Width>
+        <d3p1:X>142.19920349121094</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>60</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>to</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>163.72640228271484</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>61</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>64.8280029296875</d3p1:Width>
+        <d3p1:X>169.66799926757813</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>62</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>shape</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>234.49600219726563</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>63</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>46.393600463867188</d3p1:Width>
+        <d3p1:X>240.43760681152344</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>64</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>your</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>286.83120727539063</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>65</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>52.042400360107422</d3p1:Width>
+        <d3p1:X>292.77281188964844</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>66</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>body</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>344.81521606445313</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>67</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>55.616798400878906</d3p1:Width>
+        <d3p1:X>350.75680541992188</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>68</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>while</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>406.37359619140625</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>69</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>106.52320098876953</d3p1:Width>
+        <d3p1:X>412.315185546875</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>70</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>remaining</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>518.83837890625</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>71</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>130.32319641113281</d3p1:Width>
+        <d3p1:X>524.77996826171875</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>72</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>comfortable</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>6.3166666666666673</d3p1:Width>
+        <d3p1:X>655.1031494140625</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>73</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>.</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>661.419921875</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>74</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>667.359921875</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>75</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>673.3031005859375</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>76</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>40.25360107421875</d3p1:Width>
+        <d3p1:X>679.24468994140625</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>77</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>The</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>719.498291015625</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>78</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>85.663200378417969</d3p1:Width>
+        <d3p1:X>725.43988037109375</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>79</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>clothing</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>811.10308837890625</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>80</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>22.019199371337891</d3p1:Width>
+        <d3p1:X>817.044677734375</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>81</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>of</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>839.06390380859375</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>82</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>61.3583984375</d3p1:Width>
+        <d3p1:X>845.0054931640625</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>83</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>Camii</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>906.3638916015625</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>84</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>39.831199645996094</d3p1:Width>
+        <d3p1:X>912.30548095703125</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>85</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>Mia</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>952.13665771484375</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>86</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>18.199199676513672</d3p1:Width>
+        <d3p1:X>958.0782470703125</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>87</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>is</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>976.2774658203125</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>88</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>43.816001892089844</d3p1:Width>
+        <d3p1:X>982.21905517578125</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>89</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>very</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1026.0350341796875</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>90</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>70.371200561523438</d3p1:Width>
+        <d3p1:X>1031.9766235351563</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>91</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>known</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1102.347900390625</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>92</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>30.139999389648438</d3p1:Width>
+        <d3p1:X>1108.2894287109375</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>93</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>for</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1138.429443359375</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>94</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>101.92880249023438</d3p1:Width>
+        <d3p1:X>1144.37109375</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>95</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>simplicity</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1246.2999267578125</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>96</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>39.832000732421875</d3p1:Width>
+        <d3p1:X>1252.2415771484375</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>97</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>and</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1292.0736083984375</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>98</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>96.2936019897461</d3p1:Width>
+        <d3p1:X>1298.0152587890625</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>99</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>elegance</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1394.308837890625</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>100</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>19.0664005279541</d3p1:Width>
+        <d3p1:X>1400.25048828125</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>101</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>in</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1419.31689453125</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>102</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>104.21520233154297</d3p1:Width>
+        <d3p1:X>1425.258544921875</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>103</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>extremely</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1529.4737548828125</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>104</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>42.398399353027344</d3p1:Width>
+        <d3p1:X>1535.4154052734375</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>105</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>well</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1577.8138427734375</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>106</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>60.340000152587891</d3p1:Width>
+        <d3p1:X>1583.7554931640625</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>107</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>made</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1644.095458984375</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>108</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>39.832000732421875</d3p1:Width>
+        <d3p1:X>1650.037109375</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>109</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>and</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1689.869140625</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>110</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>79.9448013305664</d3p1:Width>
+        <d3p1:X>1695.810791015625</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>111</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>durable</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1775.755615234375</d3p1:X>
+        <d3p1:Y>371.8671989440918</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>112</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>94.816001892089844</d3p1:Width>
+        <d3p1:X>79</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>113</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>products</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>6.3166666666666673</d3p1:Width>
+        <d3p1:X>173.81600189208984</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>114</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>.</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>180.13280487060547</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>115</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>34.007999420166016</d3p1:Width>
+        <d3p1:X>186.07440185546875</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>116</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>We</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>220.0823974609375</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>117</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>50.612800598144531</d3p1:Width>
+        <d3p1:X>226.02400207519531</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>118</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>have</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>276.63681030273438</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>119</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>33.773601531982422</d3p1:Width>
+        <d3p1:X>282.57841491699219</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>120</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>the</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>316.35202026367188</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>121</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>65.285598754882813</d3p1:Width>
+        <d3p1:X>322.29362487792969</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>122</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>desire</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>387.5792236328125</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>123</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>41.952800750732422</d3p1:Width>
+        <d3p1:X>393.52081298828125</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>124</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>that</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>435.47360229492188</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>125</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>71.344001770019531</d3p1:Width>
+        <d3p1:X>441.41519165039063</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>126</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>makes</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>512.75918579101563</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>127</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>33.773601531982422</d3p1:Width>
+        <d3p1:X>518.70077514648438</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>128</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>the</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>552.474365234375</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>129</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>79.733596801757813</d3p1:Width>
+        <d3p1:X>558.41595458984375</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>130</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>fashion</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>638.1495361328125</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>131</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>29.015199661254883</d3p1:Width>
+        <d3p1:X>644.09112548828125</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>132</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>art</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>673.1063232421875</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>133</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>55.558399200439453</d3p1:Width>
+        <d3p1:X>679.04791259765625</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>134</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>more</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>734.6063232421875</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>135</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>87.387199401855469</d3p1:Width>
+        <d3p1:X>740.54791259765625</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>136</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>efficient</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>827.93511962890625</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>137</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>39.832000732421875</d3p1:Width>
+        <d3p1:X>833.876708984375</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>138</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>and</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>873.708740234375</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>139</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>49.5</d3p1:Width>
+        <d3p1:X>879.65032958984375</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>140</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>easy</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>929.15032958984375</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>141</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>59.683200836181641</d3p1:Width>
+        <d3p1:X>935.0919189453125</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>142</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>going</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>6.3166666666666673</d3p1:Width>
+        <d3p1:X>994.775146484375</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>143</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>.</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1001.0919189453125</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>144</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>48.433333333333337</d3p1:Width>
+        <d3p1:X>1007.0335083007813</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>145</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>That</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>4.1833333333333336</d3p1:Width>
+        <d3p1:X>1055.4668416341146</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>146</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>'</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>12.373333333333335</d3p1:Width>
+        <d3p1:X>1059.650174967448</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>147</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>s</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1072.0247192382813</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>148</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>44.940799713134766</d3p1:Width>
+        <d3p1:X>1077.96630859375</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>149</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>how</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1122.9071044921875</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>150</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>30.750400543212891</d3p1:Width>
+        <d3p1:X>1128.8487548828125</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>151</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>we</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1159.59912109375</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>152</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>78.257598876953125</d3p1:Width>
+        <d3p1:X>1165.540771484375</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>153</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>change</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1243.79833984375</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>154</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>33.773601531982422</d3p1:Width>
+        <d3p1:X>1249.739990234375</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>155</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>the</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1283.5135498046875</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>156</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>59.202400207519531</d3p1:Width>
+        <d3p1:X>1289.4552001953125</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>157</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>world</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>6.3166666666666673</d3p1:Width>
+        <d3p1:X>1348.6575927734375</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>158</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>.</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1354.974365234375</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>159</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>34.007999420166016</d3p1:Width>
+        <d3p1:X>1360.916015625</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>160</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>We</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1394.924072265625</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>161</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>58.5</d3p1:Width>
+        <d3p1:X>1400.86572265625</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>162</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>strive</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1459.36572265625</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>163</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>21.527200698852539</d3p1:Width>
+        <d3p1:X>1465.307373046875</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>164</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>to</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1486.8345947265625</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>165</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>58.968799591064453</d3p1:Width>
+        <d3p1:X>1492.7762451171875</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>166</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>make</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1551.7449951171875</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>167</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>75.750396728515625</d3p1:Width>
+        <d3p1:X>1557.6866455078125</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>168</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>perfect</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1633.43701171875</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>169</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>58.781600952148438</d3p1:Width>
+        <d3p1:X>1639.378662109375</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>170</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>blend</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1698.1602783203125</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>171</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>22.019199371337891</d3p1:Width>
+        <d3p1:X>1704.1019287109375</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>172</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>of</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>1726.12109375</d3p1:X>
+        <d3p1:Y>415.07440185546875</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>173</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>71.153333333333336</d3p1:Width>
+        <d3p1:X>79</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>174</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>design</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>4.71</d3p1:Width>
+        <d3p1:X>150.15333333333334</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>175</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>,</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>87.463333333333338</d3p1:Width>
+        <d3p1:X>154.86333333333334</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>176</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>material</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>242.33599853515625</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>177</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>39.832000732421875</d3p1:Width>
+        <d3p1:X>248.27760314941406</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>178</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>and</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>288.10960388183594</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>179</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>53.881599426269531</d3p1:Width>
+        <d3p1:X>294.05120849609375</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>180</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>color</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>6.3166666666666673</d3p1:Width>
+        <d3p1:X>347.93280029296875</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>181</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>.</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>354.24960327148438</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>182</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>56.976799011230469</d3p1:Width>
+        <d3p1:X>360.19119262695313</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>183</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>Hope</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>417.16799926757813</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>184</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>38.272800445556641</d3p1:Width>
+        <d3p1:X>423.10958862304688</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>185</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>you</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>461.38238525390625</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>186</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>35.507198333740234</d3p1:Width>
+        <d3p1:X>467.323974609375</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>187</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>will</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>502.8311767578125</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>188</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>36.527198791503906</d3p1:Width>
+        <d3p1:X>508.77276611328125</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>189</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>like</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>545.29995727539063</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>190</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>35.038398742675781</d3p1:Width>
+        <d3p1:X>551.24154663085938</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>191</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>our</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>586.27993774414063</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>192</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>52.007198333740234</d3p1:Width>
+        <d3p1:X>592.2215576171875</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>193</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>work</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>6.3166666666666673</d3p1:Width>
+        <d3p1:X>644.228759765625</d3p1:X>
+        <d3p1:Y>458.28160095214844</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>194</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>.</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>19.445333480834961</d3p1:Height>
+        <d3p1:Width>11.73</d3p1:Width>
+        <d3p1:X>650.5455322265625</d3p1:X>
+        <d3p1:Y>465.00053405761719</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>195</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>¶</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Pilcrow</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>6.62</d3p1:Width>
+        <d3p1:X>79</d3p1:X>
+        <d3p1:Y>508.1488037109375</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>196</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>-</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>85.62</d3p1:X>
+        <d3p1:Y>508.1488037109375</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>197</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>91.562399864196777</d3p1:X>
+        <d3p1:Y>508.1488037109375</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>198</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>97.503999710083008</d3p1:X>
+        <d3p1:Y>508.1488037109375</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>199</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>103.44559860229492</d3p1:X>
+        <d3p1:Y>508.1488037109375</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>200</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>91.5696029663086</d3p1:Width>
+        <d3p1:X>109.38719940185547</d3p1:X>
+        <d3p1:Y>508.1488037109375</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>201</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>Machine</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>200.95680236816406</d3p1:X>
+        <d3p1:Y>508.1488037109375</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>202</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>56.683200836181641</d3p1:Width>
+        <d3p1:X>206.89840698242188</d3p1:X>
+        <d3p1:Y>508.1488037109375</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>203</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>wash</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>19.445333480834961</d3p1:Height>
+        <d3p1:Width>11.73</d3p1:Width>
+        <d3p1:X>263.58160400390625</d3p1:X>
+        <d3p1:Y>514.86773681640625</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>204</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>¶</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Pilcrow</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>6.62</d3p1:Width>
+        <d3p1:X>79</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>205</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>-</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>85.62</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>206</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>91.562399864196777</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>207</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>97.503999710083008</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>208</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>103.44559860229492</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>209</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>40.3120002746582</d3p1:Width>
+        <d3p1:X>109.38719940185547</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>210</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>Mid</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>149.69920349121094</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>211</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>39.03</d3p1:Width>
+        <d3p1:X>155.64080047607422</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>212</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>rise</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>4.71</d3p1:Width>
+        <d3p1:X>194.67080047607422</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>213</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>,</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>199.38719940185547</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>214</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>64.863998413085938</d3p1:Width>
+        <d3p1:X>205.32879638671875</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>215</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>fleece</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>270.19279479980469</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>216</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>63.513333333333335</d3p1:Width>
+        <d3p1:X>276.1343994140625</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>217</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>inside</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>4.71</d3p1:Width>
+        <d3p1:X>339.64773274739582</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>218</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>,</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>344.36160278320313</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>219</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>51.608798980712891</d3p1:Width>
+        <d3p1:X>350.30319213867188</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>220</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>thick</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>401.9119873046875</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>221</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>39.832000732421875</d3p1:Width>
+        <d3p1:X>407.85357666015625</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>222</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>and</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>447.68557739257813</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>223</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>60.245601654052734</d3p1:Width>
+        <d3p1:X>453.62716674804688</d3p1:X>
+        <d3p1:Y>558.01600646972656</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>224</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>warm</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>19.445333480834961</d3p1:Height>
+        <d3p1:Width>11.73</d3p1:Width>
+        <d3p1:X>513.87277221679688</d3p1:X>
+        <d3p1:Y>564.73493957519531</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>225</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>¶</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Pilcrow</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>6.62</d3p1:Width>
+        <d3p1:X>79</d3p1:X>
+        <d3p1:Y>607.88320922851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>226</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>-</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>85.62</d3p1:X>
+        <d3p1:Y>607.88320922851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>227</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>91.562399864196777</d3p1:X>
+        <d3p1:Y>607.88320922851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>228</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>97.503999710083008</d3p1:X>
+        <d3p1:Y>607.88320922851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>229</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>103.44559860229492</d3p1:X>
+        <d3p1:Y>607.88320922851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>230</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>46.921600341796875</d3p1:Width>
+        <d3p1:X>109.38719940185547</d3p1:X>
+        <d3p1:Y>607.88320922851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>231</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>Slim</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>156.30879974365234</d3p1:X>
+        <d3p1:Y>607.88320922851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>232</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>21.130000000000003</d3p1:Width>
+        <d3p1:X>162.25039672851563</d3p1:X>
+        <d3p1:Y>607.88320922851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>233</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>fit</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>4.71</d3p1:Width>
+        <d3p1:X>183.38039672851562</d3p1:X>
+        <d3p1:Y>607.88320922851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>234</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>,</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>188.95759582519531</d3p1:X>
+        <d3p1:Y>607.88320922851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>235</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>68.203201293945313</d3p1:Width>
+        <d3p1:X>194.89919281005859</d3p1:X>
+        <d3p1:Y>607.88320922851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>236</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>skinny</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>263.10238647460938</d3p1:X>
+        <d3p1:Y>607.88320922851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>237</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>32.004001617431641</d3p1:Width>
+        <d3p1:X>269.04399108886719</d3p1:X>
+        <d3p1:Y>607.88320922851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>238</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>leg</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>19.445333480834961</d3p1:Height>
+        <d3p1:Width>11.73</d3p1:Width>
+        <d3p1:X>301.04798889160156</d3p1:X>
+        <d3p1:Y>614.60214233398438</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>239</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>¶</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Pilcrow</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>6.62</d3p1:Width>
+        <d3p1:X>79</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>240</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>-</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>85.62</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>241</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>91.562399864196777</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>242</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>97.503999710083008</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>243</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>103.44559860229492</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>244</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>77.636001586914063</d3p1:Width>
+        <d3p1:X>109.38719940185547</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>245</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>Classic</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>187.02320098876953</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>246</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>38.495998382568359</d3p1:Width>
+        <d3p1:X>192.96479797363281</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>247</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>five</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>231.46080017089844</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>248</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>72.433601379394531</d3p1:Width>
+        <d3p1:X>237.40240478515625</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>249</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>pocket</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>309.83599853515625</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>250</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>69.923333333333332</d3p1:Width>
+        <d3p1:X>315.77760314941406</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>251</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>styling</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>4.71</d3p1:Width>
+        <d3p1:X>385.70093648274741</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>252</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>,</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>390.41439819335938</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>253</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>31.183200836181641</d3p1:Width>
+        <d3p1:X>396.35598754882813</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>254</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>zip</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>427.5391845703125</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>255</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>24.986666666666668</d3p1:Width>
+        <d3p1:X>433.48077392578125</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>256</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>fly</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>4.71</d3p1:Width>
+        <d3p1:X>458.46744059244793</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>257</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>,</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>463.70318603515625</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>258</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>69.304801940917969</d3p1:Width>
+        <d3p1:X>469.644775390625</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>259</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>button</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>538.9495849609375</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>260</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>78.51519775390625</d3p1:Width>
+        <d3p1:X>544.89117431640625</d3p1:X>
+        <d3p1:Y>657.75039672851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>261</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>closure</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>19.445333480834961</d3p1:Height>
+        <d3p1:Width>11.73</d3p1:Width>
+        <d3p1:X>623.4063720703125</d3p1:X>
+        <d3p1:Y>664.46932983398438</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>262</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>¶</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Pilcrow</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>6.62</d3p1:Width>
+        <d3p1:X>79</d3p1:X>
+        <d3p1:Y>707.61758422851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>263</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>-</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Punctuation</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>85.62</d3p1:X>
+        <d3p1:Y>707.61758422851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>264</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>91.562399864196777</d3p1:X>
+        <d3p1:Y>707.61758422851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>265</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>97.503999710083008</d3p1:X>
+        <d3p1:Y>707.61758422851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>266</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>103.44559860229492</d3p1:X>
+        <d3p1:Y>707.61758422851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>267</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>60.257598876953125</d3p1:Width>
+        <d3p1:X>109.38719940185547</d3p1:X>
+        <d3p1:Y>707.61758422851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>268</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>Made</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>169.64479827880859</d3p1:X>
+        <d3p1:Y>707.61758422851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>269</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>19.0664005279541</d3p1:Width>
+        <d3p1:X>175.58639526367188</d3p1:X>
+        <d3p1:Y>707.61758422851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>270</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>in</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>5.94</d3p1:Width>
+        <d3p1:X>194.65279388427734</d3p1:X>
+        <d3p1:Y>707.61758422851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>271</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text> </d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Space</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>28.804800033569336</d3p1:Height>
+        <d3p1:Width>60.959999084472656</d3p1:Width>
+        <d3p1:X>200.59439086914063</d3p1:X>
+        <d3p1:Y>707.61758422851563</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>272</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>China</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Letters</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+    <d1p1:CategorizedTextElementDto>
+      <d1p1:Boundaries xmlns:d3p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+        <d3p1:Height>19.445333480834961</d3p1:Height>
+        <d3p1:Width>11.73</d3p1:Width>
+        <d3p1:X>261.55438232421875</d3p1:X>
+        <d3p1:Y>714.33651733398438</d3p1:Y>
+      </d1p1:Boundaries>
+      <d1p1:Index>273</d1p1:Index>
+      <d1p1:IsLeftToRight>true</d1p1:IsLeftToRight>
+      <d1p1:Text>¶</d1p1:Text>
+      <d1p1:TextAttributesId>551b79e0-3989-472f-9d12-cd7dd6bc8801</d1p1:TextAttributesId>
+      <d1p1:TextCategory>Pilcrow</d1p1:TextCategory>
+    </d1p1:CategorizedTextElementDto>
+  </TextElements>
+</TextMetadataTransport>
