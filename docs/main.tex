@@ -1,0 +1,118 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{csquotes}
+\usepackage{graphicx}
+\usepackage{biblatex} 
+\usepackage{fancyhdr}
+\usepackage{url}
+\usepackage{xurl} 
+\usepackage{microtype}
+\usepackage{subcaption}
+
+
+\addbibresource{references.bib} 
+
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\setlength{\headheight}{30pt} 
+\addtolength{\topmargin}{-18pt}
+
+% Paginas normales
+\fancyhead[L]{Evaluation of the influence of colors\\on interfaces in dark mode by eye-tracking}
+\fancyhead[R]{\leftmark} 
+
+\fancyfoot[R]{\thepage}      
+\fancyfoot[L]{\textit{Andrés Cadenas Blanco}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% Inicio capítulo
+\fancypagestyle{plain}{
+    \fancyhf{}
+    \fancyhead[L]{Evaluation of the influence of colors\\on interfaces in dark mode by eye-tracking}
+    \fancyhead[R]{\leftmark}
+    \fancyfoot[R]{\thepage}
+    \fancyfoot[L]{\textit{Andrés Cadenas Blanco - 53774977B}}
+    \renewcommand{\headrulewidth}{0.4pt}
+    \renewcommand{\footrulewidth}{0.4pt}
+}
+
+\usepackage{titlesec}
+
+% Espacio raro de titulos
+% \titlespacing*{\comando}{espacio_izquierdo}{espacio_antes}{espacio_después}
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{-30pt}{20pt}
+
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+
+% --- FIN DE CONFIGURACIÓN ---
+
+\begin{document}
+\begin{titlepage}
+    \begin{center}
+        \vspace*{1cm}
+        
+        % --- LOGO DE LA UNIVERSIDAD ---
+        % Ajusta el ancho (width) según necesites
+        \includegraphics[width=0.6\textwidth]{figures/logo_uniovi.png} 
+        \Large
+        \\Escuela Ingenieria Informática
+        \vspace{1.5cm}
+        
+        % --- TÍTULO DEL TFG ---
+        \Large
+        \textbf{TRABAJO DE FIN DE GRADO\\GRADO EN INGENIERÍA INFORMÁTICA DEL SOFTWARE}
+        
+        \vspace{0.5cm}
+        \Large
+        Evaluación de la influencia de colores en interfaces en modo oscuro mediante eye-tracking
+        
+        \vspace{1.5cm}
+        
+        % --- AUTOR Y GRADO ---
+        \begin{table}[h]
+            \centering
+            \begin{tabular}{ll}
+                \textbf{Author:} & Andrés Cadenas Blanco \\ [0.5cm]
+                \textbf{Tutors:} & Sara Vecino García \\
+                                 & Dr. Daniel Fernandez Lanvin
+            \end{tabular}
+        \end{table}
+        
+        \vfill
+        
+        \large
+        Gijón, 
+        \today
+        
+    \end{center}
+\end{titlepage}
+
+\include{chapters/acknowledgments}
+\newpage
+
+\include{chapters/abstract}
+\newpage
+
+\tableofcontents
+\newpage
+
+\listoffigures
+\newpage
+
+\listoftables
+\newpage
+
+% Llamar capitulos
+\include{chapters/introduction}
+\include{chapters/state_of_the_art}
+
+
+\printbibliography % Imprime la lista de referencias al final
+
+\end{document}
