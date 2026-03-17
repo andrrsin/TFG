@@ -1,0 +1,288 @@
+\chapter{Project Management}
+
+\section{Initial Planning}
+\section{Risk Identification and Management}
+Risk identification is a key phase of the project as it can help acknowledge possible negative 
+effects on the project. It is important to have a strategy to face such events in order to make 
+them affect the least possible the outcome of the project.
+\begin{table} [h]
+    \centering
+    \caption{Risks List}
+    \label{tab:risks}
+    \begin{tabularx}{0.8\textwidth} { 
+        | >{\raggedright\arraybackslash}c 
+        | >{\centering\arraybackslash}X| }
+        \hline \textbf{Risk ID} & \textbf{Risk Name} \\
+        \hline
+        \textbf{1} & Few Experimental Samples \\
+        \hline
+        \textbf{2} & Statistical Analysis Imprecision \\
+        \hline
+        \textbf{3} & Loss of Partial Work \\
+        \hline
+        \textbf{4} & Justified Leave of Worker \\
+        \hline
+        \textbf{5} & Lack of Teamwork \\
+        \hline
+        \textbf{6} & Tobii Measurements Drifts \\
+        \hline
+        \textbf{7} & Privacy Violations \\
+        \hline
+        \textbf{8} & Timeline Delay \\
+        \hline
+        \textbf{9} & Publisher Rejection \\
+        \hline
+    \end{tabularx}
+\end{table}
+\subsection{Risk Details}
+\label{sub:risk_details}
+\subsubsection{Few Experimental Samples}
+There is not enough sample for the test, this can lead to inconsistent
+ data and problems when doing the processing and publishing the paper.
+\begin{table}[ht]
+    \centering
+    \small
+    \renewcommand{\arraystretch}{1.8}
+    \setlength{\tabcolsep}{3pt} 
+    
+    \caption{Few experimental samples impact.}
+    \label{tab:risk_impact}
+    
+    \begin{tabularx}{\textwidth}
+        {|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>
+        {\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}p{1.5cm}|}
+        \hline
+        \multirow{2}{*}{\textbf{Probability}} & \multicolumn{4}{c|}{\textbf{Impact}} 
+        & \multirow{2}{*}{\textbf{Impact}} \\ \cline{2-5}
+        
+        & \textbf{Budget} & \textbf{Planning} & \textbf{Reach} & \textbf{Quality} & \\ \hline
+        
+        Medium & Low & Low & Medium & Critic & \cellcolor{orange} 0,45 \\ \hline
+    \end{tabularx}
+\end{table}
+\subsubsection{Statistical Analysis Imprecision}
+When analyzing the processed data if the statistic analysis is imprecise it can lead to wrong 
+conclusions. It is important for it to remain precise.
+\begin{table} [ht]
+    \centering
+    \small
+    \renewcommand{\arraystretch}{1.8}
+    \setlength{\tabcolsep}{3pt} 
+    
+    \caption{Statistical analysis imprecision impact.}
+    \label{tab:risk_impact2}
+    
+    \begin{tabularx}{\textwidth}
+        {|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>
+        {\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}p{1.5cm}|}
+        \hline
+        \multirow{2}{*}{\textbf{Probability}} & \multicolumn{4}{c|}{\textbf{Impact}} 
+        & \multirow{2}{*}{\textbf{Impact}} \\ \cline{2-5}
+        
+        & \textbf{Budget} & \textbf{Planning} & \textbf{Reach} & \textbf{Quality} & \\ \hline
+        
+        Low & Seamless & Low & Low & Medium & \cellcolor{green!40} 0,09 \\ \hline
+    \end{tabularx}
+\end{table}
+\subsubsection{Loss of Partial Work}
+Due to data corruption or any other external agent, there’s a possibility of losing the entire 
+or part of the work accomplished.
+\begin{table}[ht]
+    \centering
+    \small
+    \renewcommand{\arraystretch}{1.8}
+    \setlength{\tabcolsep}{3pt} 
+    
+    \caption{Loss of partial work impact.}
+    \label{tab:risk_impact3}
+    
+    \begin{tabularx}{\textwidth}
+        {|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>
+        {\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}p{1.5cm}|}
+        \hline
+        \multirow{2}{*}{\textbf{Probability}} & \multicolumn{4}{c|}{\textbf{Impact}} 
+        & \multirow{2}{*}{\textbf{Impact}} \\ \cline{2-5}
+        
+        & \textbf{Budget} & \textbf{Planning} & \textbf{Reach} & \textbf{Quality} & \\ \hline
+        
+        Low & Medium & High & Medium & Low & \cellcolor{green!40} 0,17 \\ \hline
+    \end{tabularx}
+\end{table}
+\subsubsection{Justified Leave of Worker}
+Any of the workers may need a justified leave of work according to the Spanish law.
+\begin{table}[ht]
+    \centering
+    \small
+    \renewcommand{\arraystretch}{1.8}
+    \setlength{\tabcolsep}{3pt} 
+    
+    \caption{Justified leave of worker impact.}
+    \label{tab:risk_impact4}
+    
+    \begin{tabularx}{\textwidth}
+        {|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>
+        {\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}p{1.5cm}|}
+        \hline
+        \multirow{2}{*}{\textbf{Probability}} & \multicolumn{4}{c|}{\textbf{Impact}} 
+        & \multirow{2}{*}{\textbf{Impact}} \\ \cline{2-5}
+        
+        & \textbf{Budget} & \textbf{Planning} & \textbf{Reach} & \textbf{Quality} & \\ \hline
+        
+        Medium & Low & High & Low & Low & \cellcolor{yellow} 0,28 \\ \hline
+    \end{tabularx}
+\end{table}
+\subsubsection{Lack of Teamwork}
+Teamwork is important as it creates a healthy environment where workers feel comfortable, 
+however it is quite easy to have a lot of individualism in teams.
+\begin{table} [ht]
+    \centering
+    \small
+    \renewcommand{\arraystretch}{1.8}
+    \setlength{\tabcolsep}{3pt} 
+    
+    \caption{Lack of teamwork impact.}
+    \label{tab:risk_impact5}
+    
+    \begin{tabularx}{\textwidth}
+        {|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>
+        {\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}p{1.5cm}|}
+        \hline
+        \multirow{2}{*}{\textbf{Probability}} & \multicolumn{4}{c|}{\textbf{Impact}} 
+        & \multirow{2}{*}{\textbf{Impact}} \\ \cline{2-5}
+        
+        & \textbf{Budget} & \textbf{Planning} & \textbf{Reach} & \textbf{Quality} & \\ \hline
+        
+        Medium & Low & High & Low & Low & \cellcolor{green!40} 0,15 \\ \hline
+    \end{tabularx}
+\end{table}
+\subsubsection{Tobii Measurements Drifts}
+Due to light changes, the subject of the experiment looking away or other uncontrollable 
+events, the tobii eye-tracker may drift its measurements.
+\begin{table} [ht]
+    \centering
+    \small
+    \renewcommand{\arraystretch}{1.8}
+    \setlength{\tabcolsep}{3pt} 
+    
+    \caption{Tobii measurements drifts impact.}
+    \label{tab:risk_impact6}
+    
+    \begin{tabularx}{\textwidth}
+        {|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>
+        {\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}p{1.5cm}|}
+        \hline
+        \multirow{2}{*}{\textbf{Probability}} & \multicolumn{4}{c|}{\textbf{Impact}} 
+        & \multirow{2}{*}{\textbf{Impact}} \\ \cline{2-5}
+        
+        & \textbf{Budget} & \textbf{Planning} & \textbf{Reach} & \textbf{Quality} & \\ \hline
+        
+        High & Seamless & Seamless & Seamless & Medium & \cellcolor{yellow} 0,21 \\ \hline
+    \end{tabularx}
+\end{table}
+\subsubsection{Privacy Violations}
+This whole research gathers a lot of sensitive information and it is a key to store and 
+manipulate the sensitive data correctly as it can lead to fines.
+\begin{table} [ht]
+    \centering
+    \small
+    \renewcommand{\arraystretch}{1.8}
+    \setlength{\tabcolsep}{3pt} 
+    
+    \caption{Privacy violations impact.}
+    \label{tab:risk_impact7}
+    
+    \begin{tabularx}{\textwidth}
+        {|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>
+        {\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}p{1.5cm}|}
+        \hline
+        \multirow{2}{*}{\textbf{Probability}} & \multicolumn{4}{c|}{\textbf{Impact}} 
+        & \multirow{2}{*}{\textbf{Impact}} \\ \cline{2-5}
+        
+        & \textbf{Budget} & \textbf{Planning} & \textbf{Reach} & \textbf{Quality} & \\ \hline
+        
+        Low & Critic & Low & Seamless & Low & \cellcolor{yellow} 0,27 \\ \hline
+    \end{tabularx}
+\end{table}
+\subsubsection{Timeline Delay}
+Research projects usually take longer than initially expected this can overextend the planning making it a real risk.
+\begin{table} [ht]
+    \centering
+    \small
+    \renewcommand{\arraystretch}{1.8}
+    \setlength{\tabcolsep}{3pt} 
+    
+    \caption{Timeline delay impact.}
+    \label{tab:risk_impact8}
+    
+    \begin{tabularx}{\textwidth}
+        {|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>
+        {\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}p{1.5cm}|}
+        \hline
+        \multirow{2}{*}{\textbf{Probability}} & \multicolumn{4}{c|}{\textbf{Impact}} 
+        & \multirow{2}{*}{\textbf{Impact}} \\ \cline{2-5}
+        
+        & \textbf{Budget} & \textbf{Planning} & \textbf{Reach} & \textbf{Quality} & \\ \hline
+        
+        High & High & High & Medium & Low & \cellcolor{YellowOrange} 0,39 \\ \hline
+    \end{tabularx}
+\end{table}
+\subsubsection{Publisher Rejection}
+After finishing the experiment, gathering the data and writing the paper there’s a 
+possibility the desired scientific publishers may not be interested in the paper.
+\begin{table} [ht]
+    \centering
+    \small
+    \renewcommand{\arraystretch}{1.8}
+    \setlength{\tabcolsep}{3pt} 
+    
+    \caption{Publisher rejection impact.}
+    \label{tab:risk_impact9}
+    
+    \begin{tabularx}{\textwidth}
+        {|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|>
+        {\centering\arraybackslash}X|>{\centering\arraybackslash}X|>{\centering\arraybackslash}p{1.5cm}|}
+        \hline
+        \multirow{2}{*}{\textbf{Probability}} & \multicolumn{4}{c|}{\textbf{Impact}} 
+        & \multirow{2}{*}{\textbf{Impact}} \\ \cline{2-5}
+        
+        & \textbf{Budget} & \textbf{Planning} & \textbf{Reach} & \textbf{Quality} & \\ \hline
+        
+        High & Seamless & Low & High & Low & \cellcolor{YellowOrange} 0,39 \\ \hline
+    \end{tabularx}
+\end{table}
+
+\newpage
+\subsection{Risk Strategy}
+A risk strategy is needed in order to know what to do against every risk, the risks of 
+\ref{sub:risk_details} explains them further. From the 9 identified risks, 2 will be deleted, 3 assumed and 4 mitigated.
+\begin{table} [ht]
+    \centering
+    \small
+    \caption{Risk strategy and action plan.}
+    \label{tab:risk_strategy}
+    \setlength{\tabcolsep}{4pt}
+    
+    
+    \begin{tabularx}{\textwidth} { 
+        | c % ID
+        | >{\raggedright\arraybackslash}X % Risk Name
+        | c % Impact
+        | c % Strategy
+        | >{\raggedright\arraybackslash}p{6cm} | 
+    }
+        \hline 
+        \textbf{ID} & \textbf{Risk Name} & \textbf{Impact} & \textbf{Strategy} & \textbf{Risk Answer}\\
+        \hline
+        \textbf{1} & Few Experimental Samples & \cellcolor{orange} 0,45 & Delete & Spend more time than planned gathering samples for the experiment. \\ \hline
+        \textbf{8} & Timeline Delay & \cellcolor{YellowOrange} 0,39 & Mitigate & When creating the planning always adding more time than expected. \\ \hline
+        \textbf{9} & Publisher Rejection & \cellcolor{YellowOrange} 0,39 & Assume & It should be necessary to have a broad list of publishers. \\ \hline
+        \textbf{4} & Justified Leave of Worker & \cellcolor{yellow} 0,28 & Assume & Work the planning around the person missing. \\ \hline    
+        \textbf{7} & Privacy Violations & \cellcolor{yellow} 0,27 & Delete & Exhaustive analysis by the prepared workers on the RGPD. \\ \hline
+        \textbf{6} & Tobii Measurements Drifts & \cellcolor{yellow} 0,21 & Assume & Try to find a spot with balanced lighting. \\ \hline
+        \textbf{3} & Loss of Partial Work & \cellcolor{green!40} 0,17 & Mitigate & Integrate a version control system on the work. \\ \hline
+        \textbf{5} & Lack of Teamwork & \cellcolor{green!40} 0,15 & Mitigate & Weekly optional team buildings outside of the work period. \\ \hline
+        \textbf{2} & Statistical Analysis Imprecision & \cellcolor{green!40} 0,09 & Mitigate & Final deep review of the statistical analysis. \\ \hline
+    \end{tabularx}
+\end{table}
+\section{Budget and Resource Allocation}
+\section{Project Monitoring and Incidence Log}

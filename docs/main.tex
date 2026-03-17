@@ -9,7 +9,12 @@
 \usepackage{xurl} 
 \usepackage{microtype}
 \usepackage{subcaption}
-
+\usepackage{multirow}
+\usepackage{makecell}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage[table, dvipsnames]{xcolor}
 
 \addbibresource{references.bib} 
 
@@ -111,8 +116,17 @@
 % Llamar capitulos
 \include{chapters/introduction}
 \include{chapters/state_of_the_art}
-
-
+\include{chapters/hypothesis}
+\include{chapters/methodology}
+\include{chapters/experiment_execution}
+\include{chapters/data_analysis}
+\include{chapters/results}
+\include{chapters/discussion}
+\include{chapters/conclusion_and_future_work}
 \printbibliography % Imprime la lista de referencias al final
 
+\appendix
+\cleardoublepage
+
+\include{chapters/project_management}
 \end{document}
