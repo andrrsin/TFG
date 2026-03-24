@@ -15,7 +15,6 @@ moment of the recording.
 
 This separation was later divided for the different scenarios: Wikipedia webpage and Amazon webpage.
 This is achieved thanks to the TOI (Time of Interest) column, which showed the scenes of the experiment.
-
 \begin{lstlisting}[style=pythonstyle] 
 def filter_by_polarity(df):
     '''
@@ -113,13 +112,43 @@ research: Current status and future prospects"\cite{Poole2006}. These metrics ar
 and were analyzed for the different escenarios as long as with the whole recording. 
 \subsection{Fixations}
 Fixations are the moments when the eye stays still focused on a point of the screen. This moments can be as small
-as a few milliseconds. They are important as the more fixations there are the less efficient the user is searching
-for information. They also can show how difficult is it to extract information as the longer the fixation is, the 
-more difficult it becomes to get the information.
+as a few milliseconds. There are a few metrics which are related to fixations as
+shown below with their respective definition by Poole, Alex and Ball, Linden J.\cite{Poole2006}
+\begin{itemize}
+    \item \textbf{Gaze (sum of the duration of all fixations):} "Gaze is usually the sum of all fixation durations 
+    within a prescribed area. It is best used to compare attention distributed between targets. It can 
+    also be used as a measure of anticipation in situation awareness if longer gazes fall on an area of 
+    interest before a possible event occurring."
+    \begin{itemize}
+        \item Although this metric is centered in Areas of Interest, in this thesis the 2 areas compared are
+        positive display polarity and negative display polarity.
+    \end{itemize}
+    \item \textbf{Total Number of Fixations:} "More overall fixations indicate less efficient search 
+    (perhaps due to sub-optimal layout of the interface)."
+    \item \textbf{Duration of Fixation:} "A longer fixation duration indicates difficulty in extracting 
+    information, or it means that the object is more engaging in some way."
+    \begin{itemize}
+        \item This will be analyzed both with the first fixation and with the average duration of the fixations.
+    \end{itemize}
+\end{itemize}
 \subsection{Saccades}
-Saccades are the time the eye is moving from one fixation to another. They can provide different information
-that can be useful in this thesis. For example, the more saccades there are the more search was done. The amplitude
-of the saccades when they are long it means there was something that attracted the attention of the user.
-
+Saccades are the time the eye is moving from one fixation to another, during this period the brain is not 
+processing any information. They can provide information that supports the fixations or that can be useful 
+in this thesis. These metrics will be explained briefly with the definitions given by Poole, Alex and Ball, 
+Linden J.\cite{Poole2006}
+\begin{itemize}
+    \item \textbf{Saccade Amplitue:} "Larger saccades indicate more meaningful cues, as attention is drawn
+     from a distance."
+        \begin{itemize}
+            \item The Saccade Amplitude is analyze through the average amplitude, 
+            as well as the average peak velocity of the saccades.
+        \end{itemize}
+    \item \textbf{Number of Saccades:} "More saccades indicate more searching."
+\end{itemize}
 TODO: Add more metrics if needed and perhaps detail the existing ones a bit more or be more specific on the ones I use.
 \section{Statistical Analysis Methods}
+As mentioned in the appendix \ref{app:project_management} inside the risks section, imprecise results must be avoided.
+After preprocessing the data, the next step is to analyze the normality of the data using the Shapiro-Wilk test. 
+This test is used for each column of the .tsv files which will be studied and will display whether this sample follows a 
+normal distribution. After that the condition to apply t-test or Mann-Whitney U test resides in the fact of both groups 
+being normal. In case only one or neither follow a normal distribution, then Mann-Whitney is applied, otherwise t-test is applied.
