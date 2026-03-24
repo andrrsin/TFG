@@ -15,10 +15,21 @@
 \usepackage{tabularx}
 \usepackage{booktabs}
 \usepackage[table, dvipsnames]{xcolor}
+\usepackage{listings}
+\usepackage{amsmath}
 
 \addbibresource{references.bib} 
 
-
+\lstdefinestyle{pythonstyle}{
+  language=Python,
+  basicstyle=\ttfamily\small,
+  keywordstyle=\color{blue},
+  stringstyle=\color{teal},
+  commentstyle=\color{gray},
+  showstringspaces=false,
+  breaklines=true,
+  frame=single
+}
 \pagestyle{fancy}
 \fancyhf{}
 
