@@ -114,6 +114,25 @@ and were analyzed for the different escenarios as long as with the whole recordi
 Fixations are the moments when the eye stays still focused on a point of the screen. This moments can be as small
 as a few milliseconds. There are a few metrics which are related to fixations as
 shown below with their respective definition by Poole, Alex and Ball, Linden J.\cite{Poole2006}
+
+\begin{table} [htb]
+\caption{Fixation Metrics and their corresponding variables in the .tsv file}
+    \begin{tabularx}{\textwidth}{|c|X|}
+        \hline
+        \textbf{Fixation Metric} & \textbf{Variable in .tsv file} \\
+        \hline
+        Gaze & Total\_duration\_of\_whole\_fixations \\
+        \hline
+        Total Number of Fixations & Number\_of\_whole\_fixations \\
+        \hline
+        Duration of First Fixation & Duration\_of\_first\_whole\_fixation \\
+        \hline
+        Average Duration of Fixations & Average\_duration\_of\_whole\_fixations \\
+        \hline
+    \end{tabularx}
+\end{table}
+
+
 \begin{itemize}
     \item \textbf{Gaze (sum of the duration of all fixations):} "Gaze is usually the sum of all fixation durations 
     within a prescribed area. It is best used to compare attention distributed between targets. It can 
@@ -145,10 +164,49 @@ Linden J.\cite{Poole2006}
         \end{itemize}
     \item \textbf{Number of Saccades:} "More saccades indicate more searching."
 \end{itemize}
-TODO: Add more metrics if needed and perhaps detail the existing ones a bit more or be more specific on the ones I use.
-\section{Statistical Analysis Methods}
-As mentioned in the appendix \ref{app:project_management} inside the risks section, imprecise results must be avoided.
-After preprocessing the data, the next step is to analyze the normality of the data using the Shapiro-Wilk test. 
-This test is used for each column of the .tsv files which will be studied and will display whether this sample follows a 
-normal distribution. After that the condition to apply t-test or Mann-Whitney U test resides in the fact of both groups 
-being normal. In case only one or neither follow a normal distribution, then Mann-Whitney is applied, otherwise t-test is applied.
+
+\begin{table} [htb]
+\caption{Saccade Metrics and their corresponding variables in the .tsv file}
+    \begin{tabularx}{\textwidth}{|c|X|}
+        \hline
+        \textbf{Saccade Metric} & \textbf{Variable in .tsv file} \\
+        \hline
+        Saccade Amplitude & Average\_peak\_velocity\_of\_saccades \\
+        \hline
+        Average Saccade Amplitude & Average\_amplitude\_of\_saccades \\
+        \hline
+        Amplitude of First Saccade & Amplitude\_of\_first\_saccade \\
+        \hline
+        Number of Saccades & Number\_of\_saccades \\
+        \hline
+    \end{tabularx}
+\end{table}
+TODO: Explain more saccades and there's missing one metric explanation in saccade
+\section{Statistical Analysis}
+\label{sec:statistical_analysis}
+In this section the process of analyzing the data with statistical methods will be further explained.
+This process consists of 3 main steps that are shared along all the studied data. Please, keep in mind that all three
+statistical methods have the $\alpha$ value of 0,05 but relevant results under 0,1 will also be recorded. In adition, 
+no extense explanation of the method will be given as this is out of the scope of the thesis.
+\begin{enumerate}
+    \item \textbf{Extract Basic Data:} Firstly the standard deviation, mean, maximum and minimum of each group
+    is extracted to obtain the general shape. It will be later used in the representation of the results of the hypothesis.
+    \item \textbf{Shapiro-Wilk Test\cite{shapiro-wilk}:} Secondly the data is analyzed with the Shapiro-Wilk test to check
+    the normality of it. The null hypothesis of this test proves that the data follows a normal distribution, from now
+    on, this statistic will be called $W$. In the following chapters $W_{PP}$ and  $W_{NP}$ will represent the Shapiro-Wilk test
+    for Positive Polarity and Negative Polarity respectively.
+    $$W = \frac{(\sum_{i=1}^n a_i x_{(i)})^2}{\sum_{i=1}^n (x_i - \bar{x})^2}$$
+    \item \textbf{T-Student test\cite{t-test} or Mann-Whitney U\cite{mann-whitney} test\:} Finally, a comparison of both groups
+    $W$ is compared. In the case of both datasets following a normal distribution, then the T-Student test is used, otherwise 
+    the Mann-Whitney U test is used. Note that in both cases the $\alpha$ value is 0,05 but relevant results under 0,1 will also
+    be recorded. 
+    \subitem \textbf{T-Student test:} The T-Student test compares the means of two normall distributed groups. Being the
+    null hypothesis that both groups have the same mean. Therefore it helps to check whether the difference between
+    the groups is significant or not. In this study, the chosen variation is the independent samples test.
+    $$ t = \frac{\bar{x}_1 - \bar{x}_2}{\sqrt{\frac{s_1^2}{n_1} + \frac{s_2^2}{n_2}}} $$
+    \subitem \textbf{Mann-Whitney U test:} The Mann-Whitney U test is a non-parametric test which compares the medians of 
+    two samples being the null hypothesis that both groups have the same median. Altough it is different from the T-Student
+    results should be simmilar and it also provides a way to test data that is not normally distributed.
+    $$ U_1 = n_1 n_2 + \frac{n_1 (n_1 + 1)}{2} - R_1 $$
+    $$ U_2 = n_1 n_2 + \frac{n_2 (n_2 + 1)}{2} - R_2 $$
+\end{enumerate}
