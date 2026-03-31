@@ -1,8 +1,7 @@
 \chapter{Results}
 \label{chap:results}
 \section{Eye-traker Data}
-TODO: Arreglar el inicio del capitulo
-No se como empezar este capitulo pero, the study developed in python has proven interesting results regarding the 
+The study developed in python has proven interesting results regarding the 
 metrics mentioned in chapter \ref{chap:data_analysis}. The results will show the results of the statistics along with
 the basic statistical values such as mean and standard deviation.
 \subsection{Total Duration of Whole Fixations}
@@ -426,3 +425,167 @@ considered relevant but gets close enough to be considered relevant. This can be
     }
 \end{table}
 \section{Questionnaire Results}
+This section will provide an insight of the results obtained through the Google Forms
+Questionnaire. The results will be shown along with an ID, this ID corresponds to
+the first letter of the subsection name in the section \ref{sec:final_questionnaire} 
+followed by the number of the question. For example, the first question of the Wiki-Based
+Scene will be identified as W1, the second question of the E-Commerce Scene will be identified 
+as E2 and so on.
+\subsection{Reading Comprehension Questions}
+\subsubsection{Wiki-Based}
+Overall results seen in table \ref{tab:rcq_wiki_results} show that the percentage of correct answers 
+is higher in negative polarity than in positive polarity in every question but in $W3$ where
+the differences are pretty steep.
+\begin{table}[H]
+    \centering
+    \small
+    \setlength{\tabcolsep}{4pt}
+    \renewcommand{\arraystretch}{1.3}
+    \caption{Basic data per question of the Wiki-Based Scene}
+    \label{tab:rcq_wiki_results}
+
+    \resizebox{0.98\linewidth}{!}{
+    \begin{tabular}{|c|c|c|c|c|}
+        \hline
+        \textbf{Question ID} & \textbf{Correct Answers} & \textbf{Wrong Answers} & \textbf{PP Correct(\%)} & \textbf{NP Correct(\%)} \\ \hline
+        W1 & 15 & 19 & 29.41 & 58.82 \\ \hline
+        W2 &  21 & 13 & 41.18 & 82.36\\ \hline
+        W3 &  20 & 14 & 70.59 & 47.06\\ \hline
+        W4 &  24 & 10 & 64.71 & 76.47 \\ \hline
+    \end{tabular}
+    }
+\end{table}
+\subsubsection{E-Commerce}
+E-Commerce results in table \ref{tab:rcq_ecommerce_results} show a pretty even distribution of 
+correct answers between both polarities. The question $E3$ is surprisingly a bit lower in 
+negative polarity as this question was pretty simple.
+\begin{table}[H]
+    \centering
+    \small
+    \setlength{\tabcolsep}{4pt}
+    \renewcommand{\arraystretch}{1.3}
+    \caption{Basic data per question of the E-Commerce Scene}
+    \label{tab:rcq_ecommerce_results}
+
+    \resizebox{0.98\linewidth}{!}{
+    \begin{tabular}{|c|c|c|c|c|}
+        \hline
+        \textbf{Question ID} & \textbf{Correct Answers} & \textbf{Wrong Answers} & \textbf{PP Correct(\%)} & \textbf{NP Correct(\%)} \\ \hline
+        E1 & 34 & 0 & 100 & 100 \\ \hline
+        E2 &  18 & 16 & 47.06 & 58.83 \\ \hline
+        E3 &  28 & 6 & 88.24 & 76.47\\ \hline
+        E4 &  21 & 13 & 64.71 & 58.82 \\ \hline
+    \end{tabular}
+    }
+\end{table}
+\subsection{Preference Questions}
+The questionnaire is divided in two types of questions, categorical and numeric. The categorial questions are those
+where the participant chooses from a non numeric list of options. For example, In question P1 the participant had to choose
+between "Normal Vision" and "Corrected Vision". On the other hand, the numeric questions are those where 
+the experimentee answers with a numerical value.
+\subsubsection{Categorical Questions}
+The experiment remained consistent not only in gender and age distribution as seen in chapter \ref{chap:methodology}
+but also in the type of vision of the participants as shown in table \ref{tab:participants_vision}. This consistency 
+results in a 53\% of participants with normal vision and a 47\% of participants with corrected vision in both polarities.
+\begin{table}[H]
+    \centering
+    \caption{Type of vision of the participants (Question P1)}
+    \label{tab:participants_vision}
+    \begin{tabular}{|c|c|c|}
+        \hline
+        \textbf{Polarity} & \textbf{Normal Vision} & \textbf{Corrected Vision} \\ \hline
+        Positive Polarity & 9 & 8 \\ \hline
+        Negative Polarity & 9 & 8 \\ \hline
+    \end{tabular}
+\end{table}
+The display polarity preference for both scenes shows a slight preference for white background with black text 
+in the Wiki-Based scene as shown in table \ref{tab:wiki_preference}
+\begin{table}[H]
+    \centering
+    \caption{Wiki-Based Scene Preference (Question P2)}
+    \label{tab:wiki_preference}
+    \begin{tabular}{|c|c|c|}
+        \hline
+        \textbf{Experiment Polarity} & \textbf{\shortstack{Positive Polarity\\Preferred}} & \textbf{\shortstack{Negative Polarity\\Preferred}} \\ \hline
+        Positive Polarity & 11 & 6 \\ \hline
+        Negative Polarity & 9 & 8 \\ \hline
+    \end{tabular}
+\end{table}
+The trend in the E-Commerce scene is simmilar to the Wiki-Based scene having an increase for 
+the positive polarity as seen in table \ref{tab:ecommerce_preference}.
+\begin{table}[H]
+    \centering
+    \caption{E-Commerce Scene Preference (Question P3)}
+    \label{tab:ecommerce_preference}
+    \begin{tabular}{|c|c|c|}
+        \hline
+        \textbf{Experiment Polarity} & \textbf{\shortstack{Positive Polarity\\Preferred}} & \textbf{\shortstack{Negative Polarity\\Preferred}} \\ \hline
+        Positive Polarity & 11 & 6 \\ \hline
+        Negative Polarity & 12 & 5 \\ \hline
+    \end{tabular}
+\end{table}
+\subsubsection{Numeric Questions}
+Regardin the numeric questions, the results in table \ref{tab:numeric_descriptor} should be read along with the 
+questions in chapter \ref{sec:final_questionnaire} to understand every question. Overall, the results appeared 
+to be pretty even between polarities.
+\begin{table}[H]
+    \centering
+    \small
+    \setlength{\tabcolsep}{4pt}
+    \renewcommand{\arraystretch}{1.3}
+    \caption{Numeric Preference Descriptive Statistics}
+    \label{tab:numeric_descriptor}
+
+    \resizebox{0.98\linewidth}{!}{
+    \begin{tabular}{|c|c|c|c|c|c|}
+        \hline
+        \textbf{Question ID} & \textbf{Display Polarity} & \textbf{Min.} & \textbf{Mean} & \textbf{Std. Deviation} & \textbf{Max.} \\ \hline
+           \multirow{2}{*}{P4} & Positive & 1 & 3.29 & 1.36 & 5 \\ \cline{2-6}
+            & Negative & 1 & 3.65 & 1.41 & 5 \\ \hline
+           \multirow{2}{*}{P5} & Positive & 1 & 2.82 & 1.51 & 5 \\ \cline{2-6}
+            & Negative & 1 & 2.76 & 1.48 & 5 \\ \hline
+           \multirow{2}{*}{P6} & Positive & 3 & 4.00 & 0.71 & 5 \\ \cline{2-6}
+            & Negative & 2 & 4.24 & 0.90 & 5 \\ \hline
+           \multirow{2}{*}{P7} & Positive & 2 & 3.71 & 0.85 & 5 \\ \cline{2-6}
+            & Negative & 2 & 3.65 & 0.79 & 5 \\ \hline
+           \multirow{2}{*}{P8} & Positive & 2 & 3.76 & 0.75 & 5 \\ \cline{2-6}
+            & Negative & 2 & 3.88 & 0.93 & 5 \\ \hline
+           \multirow{2}{*}{P9} & Positive & 3 & 4.00 & 0.87 & 5 \\ \cline{2-6}
+            & Negative & 2 & 3.59 & 0.87 & 5 \\ \hline
+           \multirow{2}{*}{P10} & Positive & 2 & 3.47 & 0.94 & 5 \\ \cline{2-6}
+            & Negative & 2 & 3.47 & 1.07 & 5 \\ \hline
+           \multirow{2}{*}{P11} & Positive & 1 & 3.41 & 1.37 & 5 \\ \cline{2-6}
+            & Negative & 1 & 3.35 & 1.00 & 5 \\ \hline
+           \multirow{2}{*}{P12} & Positive & 3 & 4.12 & 0.78 & 5 \\ \cline{2-6}
+            & Negative & 3 & 4.41 & 0.71 & 5 \\ \hline
+    \end{tabular}
+    }
+\end{table}
+In adition, the statistical tests in table \ref{tab:numeric_statistics} show no significant results 
+with all p-values being pretty far from the significance level. It is also important to note how none 
+of the questions followed a normal distribution, this is probably related to the likert scale used in the questionnaire.
+\begin{table}[H]
+    \centering
+    \small
+    \setlength{\tabcolsep}{4pt}
+    \renewcommand{\arraystretch}{1.3}
+    \caption{Numeric Preference Statistical Tests}
+    \label{tab:numeric_statistics}
+
+    \resizebox{0.98\linewidth}{!}{
+    \begin{tabular}{|c|c|c|c|c|}
+        \hline
+        \textbf{Question ID} & \textbf{W\textsubscript{PP}} & \textbf{W\textsubscript{NP}} & \textbf{T-Student} & \textbf{Mann-Whitney} \\ \hline
+        P4 & \textbf{\color{red}0.014450} & \textbf{\color{red}0.008111} & - & 0.443897 \\ \hline
+        P5 & \textbf{\color{red}0.018117} & \textbf{\color{red}0.027799} & - & 0.943579 \\ \hline
+        P6 & \textbf{\color{red}0.003247} & \textbf{\color{red}0.001766} & - & 0.266670 \\ \hline
+        P7 & \textbf{\color{red}0.033180} & \textbf{\color{red}0.022905} & - & 0.867835 \\ \hline
+        P8 & \textbf{\color{red}0.006383} & \textbf{\color{red}0.024222} & - & 0.698056 \\ \hline
+        P9 & \textbf{\color{red}0.001513} & \textbf{\color{red}0.029538} & - & 0.230296 \\ \hline
+        P10 & \textbf{\color{red}0.039537} & \textbf{\color{red}0.017035} & - & 0.928482 \\ \hline
+        P11 & \textbf{\color{red}0.047147} & \textbf{\color{red}0.045448} & - & 0.815614 \\ \hline
+        P12 & \textbf{\color{red}0.003016} & \textbf{\color{red}0.000501} & - & 0.263356 \\ \hline
+
+    \end{tabular}
+    }
+\end{table}
