@@ -2,7 +2,7 @@
 \label{chap:budget}
 Table \ref{tab:staff} shows the staff costs for the project, including the gross annual salary 
 and the annual salary cost for each role with an estimated 30\% overhead. The total staff cost 
-for the project is estimated to be 215,800.00 \euro.
+for the project is estimated to be 215,800.00 \euro per year.
 % Tabla STaff
 \begin{table} [H]
     \centering
@@ -93,21 +93,64 @@ The billing needs for the project is calculated in table \ref{tab:total_costs}.
     \label{tab:total_costs}
 \end{table}
 
-
-\begin{table}[H]
+Given a year of the project the productive hours the staff is able to reach is calculated in table \ref{tab:schedule}
+% Tabla Schedule
+\begin{table} [H]
+    \centering
+    \small
+    \setlength{\tabcolsep}{3pt}
+    \begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}X|c|c|c|}
+        \hline
+        \textbf{Staff} & \textbf{Prod.(\%)} & \textbf{Hours/Year} & \textbf{\shortstack{Prod. hours/year}} \\
+        \hline
+        Project Manager & 0 & 1784 & 0 \\ \hline
+        Lead Researcher & 70 & 1784 & 1249  \\ \hline
+        Software Engineer & 80 & 1784 & 1427.2 \\ \hline
+        Junior Researcher I & 80 & 1784 & 1427.2 \\ \hline
+        Junior Researcher II & 80 & 1784 & 1427.2 \\ \hline
+        \multicolumn{3}{|r|}{\textbf{Total}} & 5530.4 \\ \hline
+    \end{tabularx}
+    \caption{Schedule for the project}
+    \label{tab:schedule}
+\end{table}
+Since the productive hours habe been estimated, the price per hour for each staff member is calculated
+accordingly in table \ref{tab:price_per_hour}. Please remember that the total billing is for a whole productive year.
+% Tabla Price per HOur
+\begin{table} [H]
+    \centering
+    \small
+    \setlength{\tabcolsep}{2pt}
+    \begin{tabular}{|>{\raggedright\arraybackslash}p{0.27\textwidth}|>{\centering\arraybackslash}p{0.13\textwidth}|>{\centering\arraybackslash}p{0.21\textwidth}|>{\centering\arraybackslash}p{0.15\textwidth}|>{\centering\arraybackslash}p{0.14\textwidth}|}
+        \hline
+        \textbf{Staff} & \textbf{\shortstack{Price/h\\(\euro)}} & \textbf{\shortstack{Price/h no\\benefit (\euro)}} & \textbf{\shortstack{Prod.\\Hours}} & \textbf{Billing} \\
+        \hline
+        Project Manager & - & - & 0 & 0 \\ \hline
+        Lead Researcher & 70.00 & 56.00 & 1248.8 & 87,416.00  \\ \hline
+        Software Engineer & 50.00 & 40.00 & 1427.2 & 71,360.00 \\ \hline
+        Junior Researcher I & 41.25 & 33.00 & 1427.2 & 58,872.00 \\ \hline
+        Junior Researcher II & 41.25 & 33.00 & 1427.2 & 58,872.00 \\ \hline
+        \multicolumn{4}{|r|}{\textbf{Total}} & 276,520.00  \\ \hline
+    \end{tabular}
+    \caption{Price per hour for each staff member}
+    \label{tab:price_per_hour}
+\end{table}
+In summary, the total cost for the project in a whole productive year is calculated in table \ref{tab:summary}. 
+Where the \textbf{}{total margin of costs and billing} is $2,782.23\text{\euro}$ or 1.02\% of the total billing needs.
+This margin proves that the project is financially viable.
+% Tabla Summary
+\begin{table} [H]
     \centering
     \begin{tabular}{|l|c|}
         \hline
-        \textbf{Part} & \textbf{Total Cost(\euro)} \\
-        \hline
-        \textbf{1. Experiment} & 19,308.94 \\ \hline
-        1.1 Experiment Proposal & 4,763.74  \\ \hline
-        1.2 Experiment Development & 2,316.83 \\ \hline
-        1.3 Data Analysis & 12,228.38  \\ \hline
-        \textbf{2. Documentation} & 3,933.65 \\ \hline
-        \textbf{Total} & 23,242.59  \\
-        \hline
+        \textbf{Concept} & \textbf{Cost (\euro)} \\ \hline
+        Total Direct Costs & 123,500.00 \\ \hline
+        Total Indirect Costs & 98,490.21 \\ \hline
+        Sum of Direct and Indirect Costs & 218,990.21 \\ \hline
+        Desired Benefit (25\%) & 54,747.55 \\ \hline
+        Total Cost(Sum of costs + benefit) & 273,737.77 \\ \hline
+        Possible Billing by productivity and price per hour & 276,520.00 \\ \hline
     \end{tabular}
-    \caption{Initial budget estimation for the project}
-    \label{tab:initial_budget}
+    \caption{Summary of project costs}
+    \label{tab:summary}
+
 \end{table}
