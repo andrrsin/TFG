@@ -3,10 +3,10 @@
 
 \section{Environmental Conditions}
 The experiment was developed in the Faculty of Economics of the University of Oviedo, 
-located in the city of Oviedo during the 23rd and 25th of April. The weather was cloudy 
+located in the city of Oviedo during the 24th and 25th of April. The weather was cloudy 
 with few intermittent rains, this led to a general dim light. In order to have proper 
 lighting and stable conditions the room was illuminated with fluorescent lights giving a 
-total of 7,2 Exposure Value (EV) on the first day and 7,3 EV the second day.
+total oscillation of 7,2 to 7,3 Exposure Value (EV).
 
 Regarding the placement of the experiment, we were in a Main Hall in the calmest possible 
 place. Experiment subjects would sit in a chair with a small table holding the laptop and 
@@ -24,14 +24,37 @@ The first and most 3 phase of the experiment consisted of a tobii calibration. A
 
 \subsection{Eye-tracker Calibration}
 \label{sub:eye-tracker_calibration}
+To begin the experiment, the subject was asked to sit in front of the screen and told how to navigate through 
+the experiment. After that, the calibration of the eye-tracker starts, this calibration is done following a dot through 
+the screen. There are different versions of such calibration and the 9-point calibration was chosen as it is the most
+precise one. The following figure  \ref{fig:calibration} is from an unrelated scientific paper called "Understanding
+ how low vision people read using eye tracking"\cite{Wang2023} but it is relevant for the calibration as it shows 
+ the differenc calibration options.
+
+\begin{figure} [H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/calibration.jpg}
+    \caption{Different point calibrations for tobii pro nano, from}
+    \label{fig:calibration}
+\end{figure}
+
+
+\subsection{User Instructions}
+\label{sub:user_instructions}
+
 The second phase of the experiment already had two different versions. One consisted of the 
 instructions displayed in negative polarity and the other one prompted the instructions in 
 positive polarity. Results of this have been recorded but not taken into account inside the 
 experiment as they are outside of the aim of web based texts.
 
-\subsection{User Instructions}
-\label{sub:user_instructions}
-TODO: Aladir capturas de pantalla de las instrucciones y explicar que se les decia a los usuarios
+\begin{figure} [H]
+    \centering
+    \includegraphics[width=0.68\textwidth]{figures/UInstClaro.png}
+    \includegraphics[width=0.68\textwidth]{figures/UInstOscuro.png}
+    \caption{Instructions in positive and negative display polarity}
+    \label{fig:instructions}
+\end{figure}
+
 \subsection{Reading Task}
 \label{sub:reading_task}
 The reading task consisted of 2 texts. The first texts is based on Wikipedia newest negative 
@@ -46,15 +69,15 @@ The chosen Wikipedia page regards potatoes\cite{patata} as this is a common obje
  it doesn't contain technical knowledge. The screenshots of the page in both polarities can be 
  seen in the figures \ref{fig:patata_claro} and \ref{fig:patata_oscuro}. The native negative 
  polarity mode of Wikipedia was used in the test.  
-\begin{figure} [ht]
+\begin{figure} [H]
     \centering
-    \includegraphics[width=0.8\textwidth]{figures/patata_claro.png}
+    \includegraphics[width=1\textwidth]{figures/patata_claro.png}
     \caption{Wikipedia page about potatoes in positive display polarity\cite{patata}}
     \label{fig:patata_claro}
 \end{figure}
-\begin{figure} [ht]
+\begin{figure} [H]
     \centering
-    \includegraphics[width=0.8\textwidth]{figures/patata_oscuro.png}
+    \includegraphics[width=1\textwidth]{figures/patata_oscuro.png}
     \caption{Wikipedia page about potatoes in negative display polarity\cite{patata}}
     \label{fig:patata_oscuro}
 \end{figure}
@@ -67,13 +90,13 @@ The screenshots of the page in both polarities can be seen in the figures \ref{f
 and \ref{fig:amazon_oscuro}. Being \ref{fig:amazon_claro} the positive display polarity and 
 \ref{fig:amazon_oscuro} the negative display using the Dark Reader extension\cite{dark_reader} 
 that was explained in \ref{chap:methodology} chapter.
-\begin{figure} [hbt]
+\begin{figure} [H]
     \centering
     \includegraphics[width=0.8\textwidth]{figures/mochila_claro.png}
     \caption{Amazon product page in positive display polarity\cite{mochila}}
     \label{fig:amazon_claro}
 \end{figure}
-\begin{figure} [hbt]
+\begin{figure} [H]
     \centering
     \includegraphics[width=0.8\textwidth]{figures/mochila_oscuro.png}
     \caption{Amazon product page in negative display polarity\cite{mochila}}
@@ -155,6 +178,14 @@ The final section of the questionnaire collected personal preferences that are n
 to be directly analyzed in the experiment. However, future work can be directed towards 
 the analysis of these preferences and their relation with the results of this thesis. The 
 first three questions were a multiple choice and then the other ones were likert scale of 5 points.
+
+
+Most of the questions here were adapted from the ones in the papers "The impact of web page text-background 
+colour combinations on readability, retention, aesthetics and behavioural intention"\cite{Hall2004} and 
+"Web Design Attributes in Building User Trust, Satisfaction, and Loyalty for a High Uncertainty Avoidance Culture"
+\cite{Faisal2016} both articles center around a likert scale questionnaire based on preference. The first article 
+is centered around display polarity and the second one about webpage preference in general. Both were
+adapted to fit the needs of this thesis.
 
 These questions were:
 \begin{enumerate}
