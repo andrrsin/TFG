@@ -27,7 +27,7 @@ def filter_by_polarity(df):
     return claro, oscuro
 def separate_by_toi(df, toi):
     '''
-    Function to obtain Patata, Mochila, Text and Entire Recording
+    Function to obtain a given TOI name
 
     There must be a column named 'TOI' 
     '''
@@ -43,9 +43,6 @@ tf_oscuro_patata = separate_by_toi(tf_oscuro, 'PatataOscuro')
 
 tf_claro_mochila = separate_by_toi(tf_claro, 'MochilaClaro')
 tf_oscuro_mochila = separate_by_toi(tf_oscuro, 'MochilaOscuro')
-
-tf_claro_entire = separate_by_toi(tf_claro, 'Entire Recording')
-tf_oscuro_entire = separate_by_toi(tf_oscuro, 'Entire Recording')
 \end{lstlisting}
 
 The data outliers were not taken into account for the analysis, as they were not 
@@ -115,7 +112,7 @@ Fixations are the moments when the eye stays still focused on a point of the scr
 as a few milliseconds. There are a few metrics which are related to fixations as
 shown below with their respective definition by Poole, Alex and Ball, Linden J.\cite{Poole2006}
 
-\begin{table} [htb]
+\begin{table}[H]
 \caption{Fixation Metrics and their corresponding variables in the .tsv file}
     \begin{tabularx}{\textwidth}{|c|X|}
         \hline
@@ -134,18 +131,17 @@ shown below with their respective definition by Poole, Alex and Ball, Linden J.\
 
 
 \begin{itemize}
-    \item \textbf{Gaze (sum of the duration of all fixations):} "Gaze is usually the sum of all fixation durations 
-    within a prescribed area. It is best used to compare attention distributed between targets. It can 
+    \item \textbf{Gaze (sum of the duration of all fixations):} The Gaze is the result of all the fixations duration in a prescribed area.
+    It is best used to compare attention distributed between targets. It can 
     also be used as a measure of anticipation in situation awareness if longer gazes fall on an area of 
-    interest before a possible event occurring."
+    interest before a possible event occurring. \cite{Poole2006}
     \begin{itemize}
         \item Although this metric is centered in Areas of Interest, in this thesis the 2 areas compared are
         positive display polarity and negative display polarity.
     \end{itemize}
-    \item \textbf{Total Number of Fixations:} "More overall fixations indicate less efficient search 
-    (perhaps due to sub-optimal layout of the interface)."
-    \item \textbf{Duration of Fixation:} "A longer fixation duration indicates difficulty in extracting 
-    information, or it means that the object is more engaging in some way."
+    \item \textbf{Total Number of Fixations:} More fixations overall results in less efficient reading.
+    \item \textbf{Duration of Fixation:} When a fixation takes more time it can be an indicator of difficulty to process the data
+    or the user being interested in its content.
     \begin{itemize}
         \item This will be analyzed both with the first fixation and with the average duration of the fixations.
     \end{itemize}
@@ -156,22 +152,22 @@ processing any information. They can provide information that supports the fixat
 in this thesis. These metrics will be explained briefly with the definitions given by Poole, Alex and Ball, 
 Linden J.\cite{Poole2006}
 \begin{itemize}
-    \item \textbf{Saccade Amplitue:} "Larger saccades indicate more meaningful cues, as attention is drawn
-     from a distance."
+    \item \textbf{Saccade Amplitue:} Saccades usually are small so bigger saccades mean that the user attention is being drawn
         \begin{itemize}
             \item The Saccade Amplitude is analyze through the average amplitude, 
             as well as the average peak velocity of the saccades.
         \end{itemize}
-    \item \textbf{Number of Saccades:} "More saccades indicate more searching."
+    \item \textbf{Peak Velocity:} It corresponds to the maximum velocity of the saccade and it can be an indicator of fatigue.
+    \item \textbf{Number of Saccades:} More saccades means more searching and more regressions, that will be explained later.
 \end{itemize}
 
-\begin{table} [htb]
+\begin{table}[H]
 \caption{Saccade Metrics and their corresponding variables in the .tsv file}
     \begin{tabularx}{\textwidth}{|c|X|}
         \hline
         \textbf{Saccade Metric} & \textbf{Variable in .tsv file} \\
         \hline
-        Saccade Amplitude & Average\_peak\_velocity\_of\_saccades \\
+        Saccade Velocity & Average\_peak\_velocity\_of\_saccades \\
         \hline
         Average Saccade Amplitude & Average\_amplitude\_of\_saccades \\
         \hline
@@ -181,7 +177,12 @@ Linden J.\cite{Poole2006}
         \hline
     \end{tabularx}
 \end{table}
-TODO: Explain more saccades and there's missing one metric explanation in saccade
+\subsubsection{Regressions}
+Regressions are the saccades that go back to a previous part of the text. Usually the regressions are small and only 
+go back a few letters \cite{Poole2006} but they can also be big and go back many words or even paragraphs. In order to 
+analyze this metric. The chosen strategy resides in counting the number of fixations inside the text areas of interest,
+theoretically, a perfect reading would have one fixation per word, therefore, if there are more fixations it means that 
+there are more regressions. It is not the most precise way but it should give a good approximation for this thesis.
 \section{Statistical Analysis}
 \label{sec:statistical_analysis}
 In this section the process of analyzing the data with statistical methods will be further explained.
